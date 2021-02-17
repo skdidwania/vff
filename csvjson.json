@@ -1,0 +1,8582 @@
+[
+  {
+    "country": "Argentina",
+    "food_category": "Pork",
+    "consumption": 10.51,
+    "co2_emmission": 37.2
+  },
+  {
+    "country": "Argentina",
+    "food_category": "Poultry",
+    "consumption": 38.660000000000004,
+    "co2_emmission": 41.53
+  },
+  {
+    "country": "Argentina",
+    "food_category": "Beef",
+    "consumption": 55.48,
+    "co2_emmission": 1712
+  },
+  {
+    "country": "Argentina",
+    "food_category": "Lamb & Goat",
+    "consumption": 1.56,
+    "co2_emmission": 54.63
+  },
+  {
+    "country": "Argentina",
+    "food_category": "Fish",
+    "consumption": 4.359999999999999,
+    "co2_emmission": 6.96
+  },
+  {
+    "country": "Argentina",
+    "food_category": "Eggs",
+    "consumption": 11.39,
+    "co2_emmission": 10.46
+  },
+  {
+    "country": "Argentina",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 195.08,
+    "co2_emmission": 277.87
+  },
+  {
+    "country": "Argentina",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 103.11,
+    "co2_emmission": 19.66
+  },
+  {
+    "country": "Argentina",
+    "food_category": "Rice",
+    "consumption": 8.77,
+    "co2_emmission": 11.219999999999999
+  },
+  {
+    "country": "Argentina",
+    "food_category": "Soybeans",
+    "consumption": 0,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Argentina",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 0.49,
+    "co2_emmission": 0.8700000000000001
+  },
+  {
+    "country": "Australia",
+    "food_category": "Pork",
+    "consumption": 24.14,
+    "co2_emmission": 85.44000000000001
+  },
+  {
+    "country": "Australia",
+    "food_category": "Poultry",
+    "consumption": 46.120000000000005,
+    "co2_emmission": 49.54
+  },
+  {
+    "country": "Australia",
+    "food_category": "Beef",
+    "consumption": 33.86,
+    "co2_emmission": 1044.85
+  },
+  {
+    "country": "Australia",
+    "food_category": "Lamb & Goat",
+    "consumption": 9.870000000000001,
+    "co2_emmission": 345.65000000000003
+  },
+  {
+    "country": "Australia",
+    "food_category": "Fish",
+    "consumption": 17.69,
+    "co2_emmission": 28.25
+  },
+  {
+    "country": "Australia",
+    "food_category": "Eggs",
+    "consumption": 8.51,
+    "co2_emmission": 7.819999999999999
+  },
+  {
+    "country": "Australia",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 234.49,
+    "co2_emmission": 334.01
+  },
+  {
+    "country": "Australia",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 70.46000000000001,
+    "co2_emmission": 13.44
+  },
+  {
+    "country": "Australia",
+    "food_category": "Rice",
+    "consumption": 11.03,
+    "co2_emmission": 14.12
+  },
+  {
+    "country": "Australia",
+    "food_category": "Soybeans",
+    "consumption": 0.19,
+    "co2_emmission": 0.09
+  },
+  {
+    "country": "Australia",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 8.729999999999999,
+    "co2_emmission": 15.450000000000001
+  },
+  {
+    "country": "Albania",
+    "food_category": "Pork",
+    "consumption": 10.88,
+    "co2_emmission": 38.51
+  },
+  {
+    "country": "Albania",
+    "food_category": "Poultry",
+    "consumption": 13.229999999999999,
+    "co2_emmission": 14.209999999999999
+  },
+  {
+    "country": "Albania",
+    "food_category": "Beef",
+    "consumption": 22.5,
+    "co2_emmission": 694.3
+  },
+  {
+    "country": "Albania",
+    "food_category": "Lamb & Goat",
+    "consumption": 15.32,
+    "co2_emmission": 536.5
+  },
+  {
+    "country": "Albania",
+    "food_category": "Fish",
+    "consumption": 3.8499999999999996,
+    "co2_emmission": 6.1499999999999995
+  },
+  {
+    "country": "Albania",
+    "food_category": "Eggs",
+    "consumption": 12.450000000000001,
+    "co2_emmission": 11.44
+  },
+  {
+    "country": "Albania",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 303.71999999999997,
+    "co2_emmission": 432.62
+  },
+  {
+    "country": "Albania",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 138.64,
+    "co2_emmission": 26.439999999999998
+  },
+  {
+    "country": "Albania",
+    "food_category": "Rice",
+    "consumption": 7.78,
+    "co2_emmission": 9.96
+  },
+  {
+    "country": "Albania",
+    "food_category": "Soybeans",
+    "consumption": 0,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Albania",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 4.359999999999999,
+    "co2_emmission": 7.72
+  },
+  {
+    "country": "Iceland",
+    "food_category": "Pork",
+    "consumption": 21.69,
+    "co2_emmission": 76.77
+  },
+  {
+    "country": "Iceland",
+    "food_category": "Poultry",
+    "consumption": 26.87,
+    "co2_emmission": 28.86
+  },
+  {
+    "country": "Iceland",
+    "food_category": "Beef",
+    "consumption": 13.360000000000001,
+    "co2_emmission": 412.26
+  },
+  {
+    "country": "Iceland",
+    "food_category": "Lamb & Goat",
+    "consumption": 21.12,
+    "co2_emmission": 739.62
+  },
+  {
+    "country": "Iceland",
+    "food_category": "Fish",
+    "consumption": 74.41000000000001,
+    "co2_emmission": 118.81
+  },
+  {
+    "country": "Iceland",
+    "food_category": "Eggs",
+    "consumption": 8.239999999999998,
+    "co2_emmission": 7.57
+  },
+  {
+    "country": "Iceland",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 225.82000000000002,
+    "co2_emmission": 321.66
+  },
+  {
+    "country": "Iceland",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 72.92,
+    "co2_emmission": 13.91
+  },
+  {
+    "country": "Iceland",
+    "food_category": "Rice",
+    "consumption": 3.8899999999999997,
+    "co2_emmission": 4.98
+  },
+  {
+    "country": "Iceland",
+    "food_category": "Soybeans",
+    "consumption": 0.11,
+    "co2_emmission": 0.05
+  },
+  {
+    "country": "Iceland",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 3.88,
+    "co2_emmission": 6.87
+  },
+  {
+    "country": "New Zealand",
+    "food_category": "Pork",
+    "consumption": 22.29,
+    "co2_emmission": 78.9
+  },
+  {
+    "country": "New Zealand",
+    "food_category": "Poultry",
+    "consumption": 34.98,
+    "co2_emmission": 37.58
+  },
+  {
+    "country": "New Zealand",
+    "food_category": "Beef",
+    "consumption": 22.49,
+    "co2_emmission": 693.99
+  },
+  {
+    "country": "New Zealand",
+    "food_category": "Lamb & Goat",
+    "consumption": 18.91,
+    "co2_emmission": 662.23
+  },
+  {
+    "country": "New Zealand",
+    "food_category": "Fish",
+    "consumption": 20.36,
+    "co2_emmission": 32.51
+  },
+  {
+    "country": "New Zealand",
+    "food_category": "Eggs",
+    "consumption": 9.91,
+    "co2_emmission": 9.1
+  },
+  {
+    "country": "New Zealand",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 137.25,
+    "co2_emmission": 195.5
+  },
+  {
+    "country": "New Zealand",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 76.91000000000001,
+    "co2_emmission": 14.67
+  },
+  {
+    "country": "New Zealand",
+    "food_category": "Rice",
+    "consumption": 9.16,
+    "co2_emmission": 11.719999999999999
+  },
+  {
+    "country": "New Zealand",
+    "food_category": "Soybeans",
+    "consumption": 0.44,
+    "co2_emmission": 0.2
+  },
+  {
+    "country": "New Zealand",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 8.219999999999999,
+    "co2_emmission": 14.55
+  },
+  {
+    "country": "USA",
+    "food_category": "Pork",
+    "consumption": 27.64,
+    "co2_emmission": 97.83
+  },
+  {
+    "country": "USA",
+    "food_category": "Poultry",
+    "consumption": 50.01,
+    "co2_emmission": 53.720000000000006
+  },
+  {
+    "country": "USA",
+    "food_category": "Beef",
+    "consumption": 36.24,
+    "co2_emmission": 1118.29
+  },
+  {
+    "country": "USA",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.43000000000000005,
+    "co2_emmission": 15.06
+  },
+  {
+    "country": "USA",
+    "food_category": "Fish",
+    "consumption": 12.350000000000001,
+    "co2_emmission": 19.72
+  },
+  {
+    "country": "USA",
+    "food_category": "Eggs",
+    "consumption": 14.58,
+    "co2_emmission": 13.39
+  },
+  {
+    "country": "USA",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 254.69,
+    "co2_emmission": 362.78
+  },
+  {
+    "country": "USA",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 80.43,
+    "co2_emmission": 15.34
+  },
+  {
+    "country": "USA",
+    "food_category": "Rice",
+    "consumption": 6.88,
+    "co2_emmission": 8.8
+  },
+  {
+    "country": "USA",
+    "food_category": "Soybeans",
+    "consumption": 0.04,
+    "co2_emmission": 0.02
+  },
+  {
+    "country": "USA",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 7.859999999999999,
+    "co2_emmission": 13.91
+  },
+  {
+    "country": "Uruguay",
+    "food_category": "Pork",
+    "consumption": 16.84,
+    "co2_emmission": 59.61
+  },
+  {
+    "country": "Uruguay",
+    "food_category": "Poultry",
+    "consumption": 27.45,
+    "co2_emmission": 29.49
+  },
+  {
+    "country": "Uruguay",
+    "food_category": "Beef",
+    "consumption": 29.1,
+    "co2_emmission": 897.9599999999999
+  },
+  {
+    "country": "Uruguay",
+    "food_category": "Lamb & Goat",
+    "consumption": 8.229999999999999,
+    "co2_emmission": 288.21
+  },
+  {
+    "country": "Uruguay",
+    "food_category": "Fish",
+    "consumption": 6.53,
+    "co2_emmission": 10.43
+  },
+  {
+    "country": "Uruguay",
+    "food_category": "Eggs",
+    "consumption": 13.139999999999999,
+    "co2_emmission": 12.07
+  },
+  {
+    "country": "Uruguay",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 210.54,
+    "co2_emmission": 299.89
+  },
+  {
+    "country": "Uruguay",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 109.31,
+    "co2_emmission": 20.85
+  },
+  {
+    "country": "Uruguay",
+    "food_category": "Rice",
+    "consumption": 11.5,
+    "co2_emmission": 14.719999999999999
+  },
+  {
+    "country": "Uruguay",
+    "food_category": "Soybeans",
+    "consumption": 0.01,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Uruguay",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 0.9500000000000001,
+    "co2_emmission": 1.6800000000000002
+  },
+  {
+    "country": "Luxembourg",
+    "food_category": "Pork",
+    "consumption": 43.58,
+    "co2_emmission": 154.25
+  },
+  {
+    "country": "Luxembourg",
+    "food_category": "Poultry",
+    "consumption": 21.37,
+    "co2_emmission": 22.959999999999997
+  },
+  {
+    "country": "Luxembourg",
+    "food_category": "Beef",
+    "consumption": 29.88,
+    "co2_emmission": 922.03
+  },
+  {
+    "country": "Luxembourg",
+    "food_category": "Lamb & Goat",
+    "consumption": 1.6700000000000002,
+    "co2_emmission": 58.48
+  },
+  {
+    "country": "Luxembourg",
+    "food_category": "Fish",
+    "consumption": 23.09,
+    "co2_emmission": 36.87
+  },
+  {
+    "country": "Luxembourg",
+    "food_category": "Eggs",
+    "consumption": 14.639999999999999,
+    "co2_emmission": 13.450000000000001
+  },
+  {
+    "country": "Luxembourg",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 255.3,
+    "co2_emmission": 363.65000000000003
+  },
+  {
+    "country": "Luxembourg",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 103.2,
+    "co2_emmission": 19.68
+  },
+  {
+    "country": "Luxembourg",
+    "food_category": "Rice",
+    "consumption": 4.2,
+    "co2_emmission": 5.37
+  },
+  {
+    "country": "Luxembourg",
+    "food_category": "Soybeans",
+    "consumption": 0.04,
+    "co2_emmission": 0.02
+  },
+  {
+    "country": "Luxembourg",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 0.93,
+    "co2_emmission": 1.6500000000000001
+  },
+  {
+    "country": "Brazil",
+    "food_category": "Pork",
+    "consumption": 12.6,
+    "co2_emmission": 44.6
+  },
+  {
+    "country": "Brazil",
+    "food_category": "Poultry",
+    "consumption": 45,
+    "co2_emmission": 48.339999999999996
+  },
+  {
+    "country": "Brazil",
+    "food_category": "Beef",
+    "consumption": 39.25,
+    "co2_emmission": 1211.1699999999998
+  },
+  {
+    "country": "Brazil",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.62,
+    "co2_emmission": 21.71
+  },
+  {
+    "country": "Brazil",
+    "food_category": "Fish",
+    "consumption": 10.01,
+    "co2_emmission": 15.98
+  },
+  {
+    "country": "Brazil",
+    "food_category": "Eggs",
+    "consumption": 8.98,
+    "co2_emmission": 8.25
+  },
+  {
+    "country": "Brazil",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 149.28,
+    "co2_emmission": 212.63
+  },
+  {
+    "country": "Brazil",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 53,
+    "co2_emmission": 10.11
+  },
+  {
+    "country": "Brazil",
+    "food_category": "Rice",
+    "consumption": 32.13,
+    "co2_emmission": 41.120000000000005
+  },
+  {
+    "country": "Brazil",
+    "food_category": "Soybeans",
+    "consumption": 3.62,
+    "co2_emmission": 1.6300000000000001
+  },
+  {
+    "country": "Brazil",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 0.6699999999999999,
+    "co2_emmission": 1.1900000000000002
+  },
+  {
+    "country": "Kazakhstan",
+    "food_category": "Pork",
+    "consumption": 10.360000000000001,
+    "co2_emmission": 36.67
+  },
+  {
+    "country": "Kazakhstan",
+    "food_category": "Poultry",
+    "consumption": 18.38,
+    "co2_emmission": 19.74
+  },
+  {
+    "country": "Kazakhstan",
+    "food_category": "Beef",
+    "consumption": 23.38,
+    "co2_emmission": 721.4599999999999
+  },
+  {
+    "country": "Kazakhstan",
+    "food_category": "Lamb & Goat",
+    "consumption": 9.56,
+    "co2_emmission": 334.78999999999996
+  },
+  {
+    "country": "Kazakhstan",
+    "food_category": "Fish",
+    "consumption": 5.21,
+    "co2_emmission": 8.32
+  },
+  {
+    "country": "Kazakhstan",
+    "food_category": "Eggs",
+    "consumption": 8.29,
+    "co2_emmission": 7.619999999999999
+  },
+  {
+    "country": "Kazakhstan",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 288.12,
+    "co2_emmission": 410.4
+  },
+  {
+    "country": "Kazakhstan",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 92.31,
+    "co2_emmission": 17.6
+  },
+  {
+    "country": "Kazakhstan",
+    "food_category": "Rice",
+    "consumption": 7.319999999999999,
+    "co2_emmission": 9.370000000000001
+  },
+  {
+    "country": "Kazakhstan",
+    "food_category": "Soybeans",
+    "consumption": 0.03,
+    "co2_emmission": 0.01
+  },
+  {
+    "country": "Kazakhstan",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 5.14,
+    "co2_emmission": 9.1
+  },
+  {
+    "country": "Sweden",
+    "food_category": "Pork",
+    "consumption": 37,
+    "co2_emmission": 130.96
+  },
+  {
+    "country": "Sweden",
+    "food_category": "Poultry",
+    "consumption": 16.64,
+    "co2_emmission": 17.87
+  },
+  {
+    "country": "Sweden",
+    "food_category": "Beef",
+    "consumption": 24.58,
+    "co2_emmission": 758.49
+  },
+  {
+    "country": "Sweden",
+    "food_category": "Lamb & Goat",
+    "consumption": 1.41,
+    "co2_emmission": 49.379999999999995
+  },
+  {
+    "country": "Sweden",
+    "food_category": "Fish",
+    "consumption": 23.86,
+    "co2_emmission": 38.1
+  },
+  {
+    "country": "Sweden",
+    "food_category": "Eggs",
+    "consumption": 13.370000000000001,
+    "co2_emmission": 12.28
+  },
+  {
+    "country": "Sweden",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 341.22999999999996,
+    "co2_emmission": 486.05
+  },
+  {
+    "country": "Sweden",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 79.59,
+    "co2_emmission": 15.18
+  },
+  {
+    "country": "Sweden",
+    "food_category": "Rice",
+    "consumption": 5.96,
+    "co2_emmission": 7.63
+  },
+  {
+    "country": "Sweden",
+    "food_category": "Soybeans",
+    "consumption": 0.13,
+    "co2_emmission": 0.06
+  },
+  {
+    "country": "Sweden",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 6.23,
+    "co2_emmission": 11.03
+  },
+  {
+    "country": "Bermuda",
+    "food_category": "Pork",
+    "consumption": 28.24,
+    "co2_emmission": 99.96000000000001
+  },
+  {
+    "country": "Bermuda",
+    "food_category": "Poultry",
+    "consumption": 32.620000000000005,
+    "co2_emmission": 35.04
+  },
+  {
+    "country": "Bermuda",
+    "food_category": "Beef",
+    "consumption": 33.15,
+    "co2_emmission": 1022.9399999999999
+  },
+  {
+    "country": "Bermuda",
+    "food_category": "Lamb & Goat",
+    "consumption": 2.71,
+    "co2_emmission": 94.9
+  },
+  {
+    "country": "Bermuda",
+    "food_category": "Fish",
+    "consumption": 33.220000000000006,
+    "co2_emmission": 53.04
+  },
+  {
+    "country": "Bermuda",
+    "food_category": "Eggs",
+    "consumption": 14.92,
+    "co2_emmission": 13.709999999999999
+  },
+  {
+    "country": "Bermuda",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 95.56,
+    "co2_emmission": 136.12
+  },
+  {
+    "country": "Bermuda",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 54.879999999999995,
+    "co2_emmission": 10.47
+  },
+  {
+    "country": "Bermuda",
+    "food_category": "Rice",
+    "consumption": 5.38,
+    "co2_emmission": 6.88
+  },
+  {
+    "country": "Bermuda",
+    "food_category": "Soybeans",
+    "consumption": 0.22,
+    "co2_emmission": 0.1
+  },
+  {
+    "country": "Bermuda",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 5.72,
+    "co2_emmission": 10.12
+  },
+  {
+    "country": "Denmark",
+    "food_category": "Pork",
+    "consumption": 24.87,
+    "co2_emmission": 88.03
+  },
+  {
+    "country": "Denmark",
+    "food_category": "Poultry",
+    "consumption": 26.75,
+    "co2_emmission": 28.73
+  },
+  {
+    "country": "Denmark",
+    "food_category": "Beef",
+    "consumption": 28.459999999999997,
+    "co2_emmission": 878.22
+  },
+  {
+    "country": "Denmark",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.92,
+    "co2_emmission": 32.220000000000006
+  },
+  {
+    "country": "Denmark",
+    "food_category": "Fish",
+    "consumption": 16.49,
+    "co2_emmission": 26.330000000000002
+  },
+  {
+    "country": "Denmark",
+    "food_category": "Eggs",
+    "consumption": 15.350000000000001,
+    "co2_emmission": 14.1
+  },
+  {
+    "country": "Denmark",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 277.3,
+    "co2_emmission": 394.98999999999995
+  },
+  {
+    "country": "Denmark",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 98,
+    "co2_emmission": 18.69
+  },
+  {
+    "country": "Denmark",
+    "food_category": "Rice",
+    "consumption": 4.96,
+    "co2_emmission": 6.35
+  },
+  {
+    "country": "Denmark",
+    "food_category": "Soybeans",
+    "consumption": 0.03,
+    "co2_emmission": 0.01
+  },
+  {
+    "country": "Denmark",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 5.94,
+    "co2_emmission": 10.51
+  },
+  {
+    "country": "Finland",
+    "food_category": "Pork",
+    "consumption": 36.14,
+    "co2_emmission": 127.92
+  },
+  {
+    "country": "Finland",
+    "food_category": "Poultry",
+    "consumption": 19.87,
+    "co2_emmission": 21.34
+  },
+  {
+    "country": "Finland",
+    "food_category": "Beef",
+    "consumption": 19.22,
+    "co2_emmission": 593.09
+  },
+  {
+    "country": "Finland",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.53,
+    "co2_emmission": 18.56
+  },
+  {
+    "country": "Finland",
+    "food_category": "Fish",
+    "consumption": 33.8,
+    "co2_emmission": 53.97
+  },
+  {
+    "country": "Finland",
+    "food_category": "Eggs",
+    "consumption": 9.55,
+    "co2_emmission": 8.77
+  },
+  {
+    "country": "Finland",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 430.76,
+    "co2_emmission": 613.57
+  },
+  {
+    "country": "Finland",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 81.99000000000001,
+    "co2_emmission": 15.639999999999999
+  },
+  {
+    "country": "Finland",
+    "food_category": "Rice",
+    "consumption": 4.42,
+    "co2_emmission": 5.659999999999999
+  },
+  {
+    "country": "Finland",
+    "food_category": "Soybeans",
+    "consumption": 0.08,
+    "co2_emmission": 0.04
+  },
+  {
+    "country": "Finland",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 3.4299999999999997,
+    "co2_emmission": 6.07
+  },
+  {
+    "country": "Ireland",
+    "food_category": "Pork",
+    "consumption": 32.4,
+    "co2_emmission": 114.67999999999999
+  },
+  {
+    "country": "Ireland",
+    "food_category": "Poultry",
+    "consumption": 26.259999999999998,
+    "co2_emmission": 28.21
+  },
+  {
+    "country": "Ireland",
+    "food_category": "Beef",
+    "consumption": 22.35,
+    "co2_emmission": 689.6700000000001
+  },
+  {
+    "country": "Ireland",
+    "food_category": "Lamb & Goat",
+    "consumption": 4.1,
+    "co2_emmission": 143.58
+  },
+  {
+    "country": "Ireland",
+    "food_category": "Fish",
+    "consumption": 17.39,
+    "co2_emmission": 27.77
+  },
+  {
+    "country": "Ireland",
+    "food_category": "Eggs",
+    "consumption": 8.96,
+    "co2_emmission": 8.229999999999999
+  },
+  {
+    "country": "Ireland",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 291.86,
+    "co2_emmission": 415.72999999999996
+  },
+  {
+    "country": "Ireland",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 107.98,
+    "co2_emmission": 20.59
+  },
+  {
+    "country": "Ireland",
+    "food_category": "Rice",
+    "consumption": 3,
+    "co2_emmission": 3.84
+  },
+  {
+    "country": "Ireland",
+    "food_category": "Soybeans",
+    "consumption": 0.25,
+    "co2_emmission": 0.11
+  },
+  {
+    "country": "Ireland",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 4.1,
+    "co2_emmission": 7.26
+  },
+  {
+    "country": "Greece",
+    "food_category": "Pork",
+    "consumption": 28.310000000000002,
+    "co2_emmission": 100.2
+  },
+  {
+    "country": "Greece",
+    "food_category": "Poultry",
+    "consumption": 15.739999999999998,
+    "co2_emmission": 16.91
+  },
+  {
+    "country": "Greece",
+    "food_category": "Beef",
+    "consumption": 16.1,
+    "co2_emmission": 496.81
+  },
+  {
+    "country": "Greece",
+    "food_category": "Lamb & Goat",
+    "consumption": 12.47,
+    "co2_emmission": 436.7
+  },
+  {
+    "country": "Greece",
+    "food_category": "Fish",
+    "consumption": 14.42,
+    "co2_emmission": 23.02
+  },
+  {
+    "country": "Greece",
+    "food_category": "Eggs",
+    "consumption": 10.129999999999999,
+    "co2_emmission": 9.31
+  },
+  {
+    "country": "Greece",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 255.26,
+    "co2_emmission": 363.59
+  },
+  {
+    "country": "Greece",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 124.04,
+    "co2_emmission": 23.650000000000002
+  },
+  {
+    "country": "Greece",
+    "food_category": "Rice",
+    "consumption": 6.64,
+    "co2_emmission": 8.5
+  },
+  {
+    "country": "Greece",
+    "food_category": "Soybeans",
+    "consumption": 0.02,
+    "co2_emmission": 0.01
+  },
+  {
+    "country": "Greece",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 10.5,
+    "co2_emmission": 18.59
+  },
+  {
+    "country": "France",
+    "food_category": "Pork",
+    "consumption": 33.05,
+    "co2_emmission": 116.98
+  },
+  {
+    "country": "France",
+    "food_category": "Poultry",
+    "consumption": 22.93,
+    "co2_emmission": 24.630000000000003
+  },
+  {
+    "country": "France",
+    "food_category": "Beef",
+    "consumption": 23.810000000000002,
+    "co2_emmission": 734.73
+  },
+  {
+    "country": "France",
+    "food_category": "Lamb & Goat",
+    "consumption": 3.2800000000000002,
+    "co2_emmission": 114.86999999999999
+  },
+  {
+    "country": "France",
+    "food_category": "Fish",
+    "consumption": 22.91,
+    "co2_emmission": 36.58
+  },
+  {
+    "country": "France",
+    "food_category": "Eggs",
+    "consumption": 13.129999999999999,
+    "co2_emmission": 12.06
+  },
+  {
+    "country": "France",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 241.31,
+    "co2_emmission": 343.71999999999997
+  },
+  {
+    "country": "France",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 108.43,
+    "co2_emmission": 20.68
+  },
+  {
+    "country": "France",
+    "food_category": "Rice",
+    "consumption": 4.88,
+    "co2_emmission": 6.24
+  },
+  {
+    "country": "France",
+    "food_category": "Soybeans",
+    "consumption": 0.05,
+    "co2_emmission": 0.02
+  },
+  {
+    "country": "France",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 5.39,
+    "co2_emmission": 9.54
+  },
+  {
+    "country": "Canada",
+    "food_category": "Pork",
+    "consumption": 22.810000000000002,
+    "co2_emmission": 80.74000000000001
+  },
+  {
+    "country": "Canada",
+    "food_category": "Poultry",
+    "consumption": 36.68,
+    "co2_emmission": 39.4
+  },
+  {
+    "country": "Canada",
+    "food_category": "Beef",
+    "consumption": 30.25,
+    "co2_emmission": 933.4499999999999
+  },
+  {
+    "country": "Canada",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.97,
+    "co2_emmission": 33.97
+  },
+  {
+    "country": "Canada",
+    "food_category": "Fish",
+    "consumption": 14.56,
+    "co2_emmission": 23.25
+  },
+  {
+    "country": "Canada",
+    "food_category": "Eggs",
+    "consumption": 12.950000000000001,
+    "co2_emmission": 11.9
+  },
+  {
+    "country": "Canada",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 187.76999999999998,
+    "co2_emmission": 267.46
+  },
+  {
+    "country": "Canada",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 84.96000000000001,
+    "co2_emmission": 16.2
+  },
+  {
+    "country": "Canada",
+    "food_category": "Rice",
+    "consumption": 12.65,
+    "co2_emmission": 16.19
+  },
+  {
+    "country": "Canada",
+    "food_category": "Soybeans",
+    "consumption": 0.9400000000000001,
+    "co2_emmission": 0.42000000000000004
+  },
+  {
+    "country": "Canada",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 8.01,
+    "co2_emmission": 14.18
+  },
+  {
+    "country": "Norway",
+    "food_category": "Pork",
+    "consumption": 23.51,
+    "co2_emmission": 83.21000000000001
+  },
+  {
+    "country": "Norway",
+    "food_category": "Poultry",
+    "consumption": 21.01,
+    "co2_emmission": 22.57
+  },
+  {
+    "country": "Norway",
+    "food_category": "Beef",
+    "consumption": 19.830000000000002,
+    "co2_emmission": 611.91
+  },
+  {
+    "country": "Norway",
+    "food_category": "Lamb & Goat",
+    "consumption": 5.34,
+    "co2_emmission": 187.01
+  },
+  {
+    "country": "Norway",
+    "food_category": "Fish",
+    "consumption": 38.18,
+    "co2_emmission": 60.96
+  },
+  {
+    "country": "Norway",
+    "food_category": "Eggs",
+    "consumption": 11.41,
+    "co2_emmission": 10.48
+  },
+  {
+    "country": "Norway",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 261.34000000000003,
+    "co2_emmission": 372.25
+  },
+  {
+    "country": "Norway",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 97.11999999999999,
+    "co2_emmission": 18.52
+  },
+  {
+    "country": "Norway",
+    "food_category": "Rice",
+    "consumption": 4.359999999999999,
+    "co2_emmission": 5.58
+  },
+  {
+    "country": "Norway",
+    "food_category": "Soybeans",
+    "consumption": 0.11,
+    "co2_emmission": 0.05
+  },
+  {
+    "country": "Norway",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 5.28,
+    "co2_emmission": 9.350000000000001
+  },
+  {
+    "country": "Hong Kong SAR. China",
+    "food_category": "Pork",
+    "consumption": 67.11,
+    "co2_emmission": 237.54
+  },
+  {
+    "country": "Hong Kong SAR. China",
+    "food_category": "Poultry",
+    "consumption": 54.86,
+    "co2_emmission": 58.93
+  },
+  {
+    "country": "Hong Kong SAR. China",
+    "food_category": "Beef",
+    "consumption": 25.82,
+    "co2_emmission": 796.75
+  },
+  {
+    "country": "Hong Kong SAR. China",
+    "food_category": "Lamb & Goat",
+    "consumption": 2.22,
+    "co2_emmission": 77.74000000000001
+  },
+  {
+    "country": "Hong Kong SAR. China",
+    "food_category": "Fish",
+    "consumption": 42.44,
+    "co2_emmission": 67.76
+  },
+  {
+    "country": "Hong Kong SAR. China",
+    "food_category": "Eggs",
+    "consumption": 14.5,
+    "co2_emmission": 13.32
+  },
+  {
+    "country": "Hong Kong SAR. China",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 105.85,
+    "co2_emmission": 150.76999999999998
+  },
+  {
+    "country": "Hong Kong SAR. China",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 53.14,
+    "co2_emmission": 10.129999999999999
+  },
+  {
+    "country": "Hong Kong SAR. China",
+    "food_category": "Rice",
+    "consumption": 43.48,
+    "co2_emmission": 55.64
+  },
+  {
+    "country": "Hong Kong SAR. China",
+    "food_category": "Soybeans",
+    "consumption": 2.79,
+    "co2_emmission": 1.26
+  },
+  {
+    "country": "Hong Kong SAR. China",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 13.81,
+    "co2_emmission": 24.439999999999998
+  },
+  {
+    "country": "French Polynesia",
+    "food_category": "Pork",
+    "consumption": 14.75,
+    "co2_emmission": 52.21
+  },
+  {
+    "country": "French Polynesia",
+    "food_category": "Poultry",
+    "consumption": 49.55,
+    "co2_emmission": 53.230000000000004
+  },
+  {
+    "country": "French Polynesia",
+    "food_category": "Beef",
+    "consumption": 30.9,
+    "co2_emmission": 953.51
+  },
+  {
+    "country": "French Polynesia",
+    "food_category": "Lamb & Goat",
+    "consumption": 2.8299999999999996,
+    "co2_emmission": 99.11
+  },
+  {
+    "country": "French Polynesia",
+    "food_category": "Fish",
+    "consumption": 38.949999999999996,
+    "co2_emmission": 62.190000000000005
+  },
+  {
+    "country": "French Polynesia",
+    "food_category": "Eggs",
+    "consumption": 8.75,
+    "co2_emmission": 8.04
+  },
+  {
+    "country": "French Polynesia",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 93.56,
+    "co2_emmission": 133.26999999999998
+  },
+  {
+    "country": "French Polynesia",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 68.66999999999999,
+    "co2_emmission": 13.1
+  },
+  {
+    "country": "French Polynesia",
+    "food_category": "Rice",
+    "consumption": 35.59,
+    "co2_emmission": 45.54
+  },
+  {
+    "country": "French Polynesia",
+    "food_category": "Soybeans",
+    "consumption": 0.77,
+    "co2_emmission": 0.35
+  },
+  {
+    "country": "French Polynesia",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 2.34,
+    "co2_emmission": 4.14
+  },
+  {
+    "country": "Israel",
+    "food_category": "Pork",
+    "consumption": 1.99,
+    "co2_emmission": 7.04
+  },
+  {
+    "country": "Israel",
+    "food_category": "Poultry",
+    "consumption": 62.5,
+    "co2_emmission": 67.14
+  },
+  {
+    "country": "Israel",
+    "food_category": "Beef",
+    "consumption": 28.779999999999998,
+    "co2_emmission": 888.09
+  },
+  {
+    "country": "Israel",
+    "food_category": "Lamb & Goat",
+    "consumption": 1.87,
+    "co2_emmission": 65.49000000000001
+  },
+  {
+    "country": "Israel",
+    "food_category": "Fish",
+    "consumption": 22.18,
+    "co2_emmission": 35.41
+  },
+  {
+    "country": "Israel",
+    "food_category": "Eggs",
+    "consumption": 11.350000000000001,
+    "co2_emmission": 10.43
+  },
+  {
+    "country": "Israel",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 193.6,
+    "co2_emmission": 275.76
+  },
+  {
+    "country": "Israel",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 110.86,
+    "co2_emmission": 21.14
+  },
+  {
+    "country": "Israel",
+    "food_category": "Rice",
+    "consumption": 16.810000000000002,
+    "co2_emmission": 21.51
+  },
+  {
+    "country": "Israel",
+    "food_category": "Soybeans",
+    "consumption": 0.1,
+    "co2_emmission": 0.05
+  },
+  {
+    "country": "Israel",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 7.71,
+    "co2_emmission": 13.65
+  },
+  {
+    "country": "Switzerland",
+    "food_category": "Pork",
+    "consumption": 31.49,
+    "co2_emmission": 111.46000000000001
+  },
+  {
+    "country": "Switzerland",
+    "food_category": "Poultry",
+    "consumption": 16.38,
+    "co2_emmission": 17.6
+  },
+  {
+    "country": "Switzerland",
+    "food_category": "Beef",
+    "consumption": 21.259999999999998,
+    "co2_emmission": 656.04
+  },
+  {
+    "country": "Switzerland",
+    "food_category": "Lamb & Goat",
+    "consumption": 1.42,
+    "co2_emmission": 49.730000000000004
+  },
+  {
+    "country": "Switzerland",
+    "food_category": "Fish",
+    "consumption": 13.48,
+    "co2_emmission": 21.52
+  },
+  {
+    "country": "Switzerland",
+    "food_category": "Eggs",
+    "consumption": 10.53,
+    "co2_emmission": 9.67
+  },
+  {
+    "country": "Switzerland",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 318.69,
+    "co2_emmission": 453.94
+  },
+  {
+    "country": "Switzerland",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 89.51,
+    "co2_emmission": 17.07
+  },
+  {
+    "country": "Switzerland",
+    "food_category": "Rice",
+    "consumption": 2.4299999999999997,
+    "co2_emmission": 3.11
+  },
+  {
+    "country": "Switzerland",
+    "food_category": "Soybeans",
+    "consumption": 0.44,
+    "co2_emmission": 0.2
+  },
+  {
+    "country": "Switzerland",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 9.27,
+    "co2_emmission": 16.41
+  },
+  {
+    "country": "Netherlands",
+    "food_category": "Pork",
+    "consumption": 36.36,
+    "co2_emmission": 128.7
+  },
+  {
+    "country": "Netherlands",
+    "food_category": "Poultry",
+    "consumption": 23.9,
+    "co2_emmission": 25.67
+  },
+  {
+    "country": "Netherlands",
+    "food_category": "Beef",
+    "consumption": 17.67,
+    "co2_emmission": 545.26
+  },
+  {
+    "country": "Netherlands",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.9400000000000001,
+    "co2_emmission": 32.92
+  },
+  {
+    "country": "Netherlands",
+    "food_category": "Fish",
+    "consumption": 18.64,
+    "co2_emmission": 29.759999999999998
+  },
+  {
+    "country": "Netherlands",
+    "food_category": "Eggs",
+    "consumption": 14.03,
+    "co2_emmission": 12.89
+  },
+  {
+    "country": "Netherlands",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 341.46999999999997,
+    "co2_emmission": 486.39
+  },
+  {
+    "country": "Netherlands",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 70.16999999999999,
+    "co2_emmission": 13.38
+  },
+  {
+    "country": "Netherlands",
+    "food_category": "Rice",
+    "consumption": 2.9299999999999997,
+    "co2_emmission": 3.75
+  },
+  {
+    "country": "Netherlands",
+    "food_category": "Soybeans",
+    "consumption": 0.12000000000000001,
+    "co2_emmission": 0.05
+  },
+  {
+    "country": "Netherlands",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 7.94,
+    "co2_emmission": 14.05
+  },
+  {
+    "country": "Kuwait",
+    "food_category": "Pork",
+    "consumption": 0,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Kuwait",
+    "food_category": "Poultry",
+    "consumption": 53.61,
+    "co2_emmission": 57.59
+  },
+  {
+    "country": "Kuwait",
+    "food_category": "Beef",
+    "consumption": 13.03,
+    "co2_emmission": 402.08
+  },
+  {
+    "country": "Kuwait",
+    "food_category": "Lamb & Goat",
+    "consumption": 15.61,
+    "co2_emmission": 546.66
+  },
+  {
+    "country": "Kuwait",
+    "food_category": "Fish",
+    "consumption": 11.99,
+    "co2_emmission": 19.14
+  },
+  {
+    "country": "Kuwait",
+    "food_category": "Eggs",
+    "consumption": 12.6,
+    "co2_emmission": 11.57
+  },
+  {
+    "country": "Kuwait",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 157.66,
+    "co2_emmission": 224.57
+  },
+  {
+    "country": "Kuwait",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 96.76,
+    "co2_emmission": 18.45
+  },
+  {
+    "country": "Kuwait",
+    "food_category": "Rice",
+    "consumption": 43.83,
+    "co2_emmission": 56.09
+  },
+  {
+    "country": "Kuwait",
+    "food_category": "Soybeans",
+    "consumption": 0.06,
+    "co2_emmission": 0.03
+  },
+  {
+    "country": "Kuwait",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 5.23,
+    "co2_emmission": 9.26
+  },
+  {
+    "country": "United Kingdom",
+    "food_category": "Pork",
+    "consumption": 25.79,
+    "co2_emmission": 91.28
+  },
+  {
+    "country": "United Kingdom",
+    "food_category": "Poultry",
+    "consumption": 31.55,
+    "co2_emmission": 33.89
+  },
+  {
+    "country": "United Kingdom",
+    "food_category": "Beef",
+    "consumption": 18.12,
+    "co2_emmission": 559.15
+  },
+  {
+    "country": "United Kingdom",
+    "food_category": "Lamb & Goat",
+    "consumption": 4.49,
+    "co2_emmission": 157.23999999999998
+  },
+  {
+    "country": "United Kingdom",
+    "food_category": "Fish",
+    "consumption": 15.49,
+    "co2_emmission": 24.73
+  },
+  {
+    "country": "United Kingdom",
+    "food_category": "Eggs",
+    "consumption": 11.08,
+    "co2_emmission": 10.18
+  },
+  {
+    "country": "United Kingdom",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 232.2,
+    "co2_emmission": 330.75
+  },
+  {
+    "country": "United Kingdom",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 98.63,
+    "co2_emmission": 18.810000000000002
+  },
+  {
+    "country": "United Kingdom",
+    "food_category": "Rice",
+    "consumption": 6.39,
+    "co2_emmission": 8.18
+  },
+  {
+    "country": "United Kingdom",
+    "food_category": "Soybeans",
+    "consumption": 0.05,
+    "co2_emmission": 0.02
+  },
+  {
+    "country": "United Kingdom",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 4.18,
+    "co2_emmission": 7.4
+  },
+  {
+    "country": "Austria",
+    "food_category": "Pork",
+    "consumption": 52.56,
+    "co2_emmission": 186.04
+  },
+  {
+    "country": "Austria",
+    "food_category": "Poultry",
+    "consumption": 18.610000000000003,
+    "co2_emmission": 19.99
+  },
+  {
+    "country": "Austria",
+    "food_category": "Beef",
+    "consumption": 17.14,
+    "co2_emmission": 528.9
+  },
+  {
+    "country": "Austria",
+    "food_category": "Lamb & Goat",
+    "consumption": 1.1600000000000001,
+    "co2_emmission": 40.620000000000005
+  },
+  {
+    "country": "Austria",
+    "food_category": "Fish",
+    "consumption": 12.16,
+    "co2_emmission": 19.419999999999998
+  },
+  {
+    "country": "Austria",
+    "food_category": "Eggs",
+    "consumption": 14.68,
+    "co2_emmission": 13.49
+  },
+  {
+    "country": "Austria",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 258.09,
+    "co2_emmission": 367.62
+  },
+  {
+    "country": "Austria",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 81.1,
+    "co2_emmission": 15.47
+  },
+  {
+    "country": "Austria",
+    "food_category": "Rice",
+    "consumption": 3.7,
+    "co2_emmission": 4.73
+  },
+  {
+    "country": "Austria",
+    "food_category": "Soybeans",
+    "consumption": 2.06,
+    "co2_emmission": 0.93
+  },
+  {
+    "country": "Austria",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 7.88,
+    "co2_emmission": 13.950000000000001
+  },
+  {
+    "country": "Oman",
+    "food_category": "Pork",
+    "consumption": 0.01,
+    "co2_emmission": 0.04
+  },
+  {
+    "country": "Oman",
+    "food_category": "Poultry",
+    "consumption": 31.51,
+    "co2_emmission": 33.849999999999994
+  },
+  {
+    "country": "Oman",
+    "food_category": "Beef",
+    "consumption": 15.1,
+    "co2_emmission": 465.95
+  },
+  {
+    "country": "Oman",
+    "food_category": "Lamb & Goat",
+    "consumption": 12.870000000000001,
+    "co2_emmission": 450.71
+  },
+  {
+    "country": "Oman",
+    "food_category": "Fish",
+    "consumption": 21.56,
+    "co2_emmission": 34.42
+  },
+  {
+    "country": "Oman",
+    "food_category": "Eggs",
+    "consumption": 7.8,
+    "co2_emmission": 7.17
+  },
+  {
+    "country": "Oman",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 152.28,
+    "co2_emmission": 216.91
+  },
+  {
+    "country": "Oman",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 64.1,
+    "co2_emmission": 12.219999999999999
+  },
+  {
+    "country": "Oman",
+    "food_category": "Rice",
+    "consumption": 56.55,
+    "co2_emmission": 72.36999999999999
+  },
+  {
+    "country": "Oman",
+    "food_category": "Soybeans",
+    "consumption": 0.21000000000000002,
+    "co2_emmission": 0.09
+  },
+  {
+    "country": "Oman",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 1.6800000000000002,
+    "co2_emmission": 2.9699999999999998
+  },
+  {
+    "country": "Italy",
+    "food_category": "Pork",
+    "consumption": 40.28,
+    "co2_emmission": 142.57
+  },
+  {
+    "country": "Italy",
+    "food_category": "Poultry",
+    "consumption": 18.610000000000003,
+    "co2_emmission": 19.99
+  },
+  {
+    "country": "Italy",
+    "food_category": "Beef",
+    "consumption": 18.6,
+    "co2_emmission": 573.9599999999999
+  },
+  {
+    "country": "Italy",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.92,
+    "co2_emmission": 32.220000000000006
+  },
+  {
+    "country": "Italy",
+    "food_category": "Fish",
+    "consumption": 15.6,
+    "co2_emmission": 24.91
+  },
+  {
+    "country": "Italy",
+    "food_category": "Eggs",
+    "consumption": 13.34,
+    "co2_emmission": 12.25
+  },
+  {
+    "country": "Italy",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 246.88000000000002,
+    "co2_emmission": 351.66
+  },
+  {
+    "country": "Italy",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 146.37,
+    "co2_emmission": 27.91
+  },
+  {
+    "country": "Italy",
+    "food_category": "Rice",
+    "consumption": 5.74,
+    "co2_emmission": 7.35
+  },
+  {
+    "country": "Italy",
+    "food_category": "Soybeans",
+    "consumption": 0.01,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Italy",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 7.63,
+    "co2_emmission": 13.51
+  },
+  {
+    "country": "Bahamas",
+    "food_category": "Pork",
+    "consumption": 32.74,
+    "co2_emmission": 115.88
+  },
+  {
+    "country": "Bahamas",
+    "food_category": "Poultry",
+    "consumption": 45.74,
+    "co2_emmission": 49.13
+  },
+  {
+    "country": "Bahamas",
+    "food_category": "Beef",
+    "consumption": 19.919999999999998,
+    "co2_emmission": 614.69
+  },
+  {
+    "country": "Bahamas",
+    "food_category": "Lamb & Goat",
+    "consumption": 5.22,
+    "co2_emmission": 182.8
+  },
+  {
+    "country": "Bahamas",
+    "food_category": "Fish",
+    "consumption": 18.8,
+    "co2_emmission": 30.02
+  },
+  {
+    "country": "Bahamas",
+    "food_category": "Eggs",
+    "consumption": 6.2,
+    "co2_emmission": 5.7
+  },
+  {
+    "country": "Bahamas",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 104.76,
+    "co2_emmission": 149.22
+  },
+  {
+    "country": "Bahamas",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 39.98,
+    "co2_emmission": 7.619999999999999
+  },
+  {
+    "country": "Bahamas",
+    "food_category": "Rice",
+    "consumption": 23.97,
+    "co2_emmission": 30.67
+  },
+  {
+    "country": "Bahamas",
+    "food_category": "Soybeans",
+    "consumption": 0.09,
+    "co2_emmission": 0.04
+  },
+  {
+    "country": "Bahamas",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 4.03,
+    "co2_emmission": 7.13
+  },
+  {
+    "country": "Portugal",
+    "food_category": "Pork",
+    "consumption": 37.91,
+    "co2_emmission": 134.18
+  },
+  {
+    "country": "Portugal",
+    "food_category": "Poultry",
+    "consumption": 30.14,
+    "co2_emmission": 32.379999999999995
+  },
+  {
+    "country": "Portugal",
+    "food_category": "Beef",
+    "consumption": 16.45,
+    "co2_emmission": 507.61
+  },
+  {
+    "country": "Portugal",
+    "food_category": "Lamb & Goat",
+    "consumption": 2.38,
+    "co2_emmission": 83.35
+  },
+  {
+    "country": "Portugal",
+    "food_category": "Fish",
+    "consumption": 45.39,
+    "co2_emmission": 72.47
+  },
+  {
+    "country": "Portugal",
+    "food_category": "Eggs",
+    "consumption": 9.05,
+    "co2_emmission": 8.31
+  },
+  {
+    "country": "Portugal",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 205.04,
+    "co2_emmission": 292.06
+  },
+  {
+    "country": "Portugal",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 94.3,
+    "co2_emmission": 17.979999999999997
+  },
+  {
+    "country": "Portugal",
+    "food_category": "Rice",
+    "consumption": 14.860000000000001,
+    "co2_emmission": 19.02
+  },
+  {
+    "country": "Portugal",
+    "food_category": "Soybeans",
+    "consumption": 0.01,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Portugal",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 3.9099999999999997,
+    "co2_emmission": 6.92
+  },
+  {
+    "country": "Malta",
+    "food_category": "Pork",
+    "consumption": 34.24,
+    "co2_emmission": 121.19
+  },
+  {
+    "country": "Malta",
+    "food_category": "Poultry",
+    "consumption": 26.4,
+    "co2_emmission": 28.36
+  },
+  {
+    "country": "Malta",
+    "food_category": "Beef",
+    "consumption": 19.22,
+    "co2_emmission": 593.09
+  },
+  {
+    "country": "Malta",
+    "food_category": "Lamb & Goat",
+    "consumption": 1.1900000000000002,
+    "co2_emmission": 41.67
+  },
+  {
+    "country": "Malta",
+    "food_category": "Fish",
+    "consumption": 24.58,
+    "co2_emmission": 39.25
+  },
+  {
+    "country": "Malta",
+    "food_category": "Eggs",
+    "consumption": 11.639999999999999,
+    "co2_emmission": 10.69
+  },
+  {
+    "country": "Malta",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 190.06,
+    "co2_emmission": 270.71999999999997
+  },
+  {
+    "country": "Malta",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 139.58,
+    "co2_emmission": 26.62
+  },
+  {
+    "country": "Malta",
+    "food_category": "Rice",
+    "consumption": 4.96,
+    "co2_emmission": 6.35
+  },
+  {
+    "country": "Malta",
+    "food_category": "Soybeans",
+    "consumption": 0.05,
+    "co2_emmission": 0.02
+  },
+  {
+    "country": "Malta",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 5.619999999999999,
+    "co2_emmission": 9.950000000000001
+  },
+  {
+    "country": "Armenia",
+    "food_category": "Pork",
+    "consumption": 9.67,
+    "co2_emmission": 34.230000000000004
+  },
+  {
+    "country": "Armenia",
+    "food_category": "Poultry",
+    "consumption": 13.350000000000001,
+    "co2_emmission": 14.34
+  },
+  {
+    "country": "Armenia",
+    "food_category": "Beef",
+    "consumption": 19.66,
+    "co2_emmission": 606.6700000000001
+  },
+  {
+    "country": "Armenia",
+    "food_category": "Lamb & Goat",
+    "consumption": 3.02,
+    "co2_emmission": 105.76
+  },
+  {
+    "country": "Armenia",
+    "food_category": "Fish",
+    "consumption": 4.359999999999999,
+    "co2_emmission": 6.96
+  },
+  {
+    "country": "Armenia",
+    "food_category": "Eggs",
+    "consumption": 11.69,
+    "co2_emmission": 10.739999999999998
+  },
+  {
+    "country": "Armenia",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 209.03,
+    "co2_emmission": 297.74
+  },
+  {
+    "country": "Armenia",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 130.6,
+    "co2_emmission": 24.91
+  },
+  {
+    "country": "Armenia",
+    "food_category": "Rice",
+    "consumption": 3.18,
+    "co2_emmission": 4.07
+  },
+  {
+    "country": "Armenia",
+    "food_category": "Soybeans",
+    "consumption": 0,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Armenia",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 2.55,
+    "co2_emmission": 4.51
+  },
+  {
+    "country": "Slovenia",
+    "food_category": "Pork",
+    "consumption": 28.19,
+    "co2_emmission": 99.78
+  },
+  {
+    "country": "Slovenia",
+    "food_category": "Poultry",
+    "consumption": 23.459999999999997,
+    "co2_emmission": 25.2
+  },
+  {
+    "country": "Slovenia",
+    "food_category": "Beef",
+    "consumption": 18.43,
+    "co2_emmission": 568.71
+  },
+  {
+    "country": "Slovenia",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.7899999999999999,
+    "co2_emmission": 27.67
+  },
+  {
+    "country": "Slovenia",
+    "food_category": "Fish",
+    "consumption": 7.76,
+    "co2_emmission": 12.39
+  },
+  {
+    "country": "Slovenia",
+    "food_category": "Eggs",
+    "consumption": 9.360000000000001,
+    "co2_emmission": 8.6
+  },
+  {
+    "country": "Slovenia",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 235.01,
+    "co2_emmission": 334.75
+  },
+  {
+    "country": "Slovenia",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 103.43,
+    "co2_emmission": 19.72
+  },
+  {
+    "country": "Slovenia",
+    "food_category": "Rice",
+    "consumption": 3.9499999999999997,
+    "co2_emmission": 5.05
+  },
+  {
+    "country": "Slovenia",
+    "food_category": "Soybeans",
+    "consumption": 0.75,
+    "co2_emmission": 0.33999999999999997
+  },
+  {
+    "country": "Slovenia",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 5.28,
+    "co2_emmission": 9.350000000000001
+  },
+  {
+    "country": "Chile",
+    "food_category": "Pork",
+    "consumption": 24.68,
+    "co2_emmission": 87.35
+  },
+  {
+    "country": "Chile",
+    "food_category": "Poultry",
+    "consumption": 36.52,
+    "co2_emmission": 39.230000000000004
+  },
+  {
+    "country": "Chile",
+    "food_category": "Beef",
+    "consumption": 23.86,
+    "co2_emmission": 736.2700000000001
+  },
+  {
+    "country": "Chile",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.42000000000000004,
+    "co2_emmission": 14.709999999999999
+  },
+  {
+    "country": "Chile",
+    "food_category": "Fish",
+    "consumption": 7.6499999999999995,
+    "co2_emmission": 12.209999999999999
+  },
+  {
+    "country": "Chile",
+    "food_category": "Eggs",
+    "consumption": 9.97,
+    "co2_emmission": 9.16
+  },
+  {
+    "country": "Chile",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 116.11,
+    "co2_emmission": 165.39000000000001
+  },
+  {
+    "country": "Chile",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 104.74000000000001,
+    "co2_emmission": 19.97
+  },
+  {
+    "country": "Chile",
+    "food_category": "Rice",
+    "consumption": 8.850000000000001,
+    "co2_emmission": 11.33
+  },
+  {
+    "country": "Chile",
+    "food_category": "Soybeans",
+    "consumption": 0.04,
+    "co2_emmission": 0.02
+  },
+  {
+    "country": "Chile",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 2.22,
+    "co2_emmission": 3.9299999999999997
+  },
+  {
+    "country": "Venezuela",
+    "food_category": "Pork",
+    "consumption": 7.23,
+    "co2_emmission": 25.59
+  },
+  {
+    "country": "Venezuela",
+    "food_category": "Poultry",
+    "consumption": 39.28,
+    "co2_emmission": 42.190000000000005
+  },
+  {
+    "country": "Venezuela",
+    "food_category": "Beef",
+    "consumption": 25.89,
+    "co2_emmission": 798.91
+  },
+  {
+    "country": "Venezuela",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.32,
+    "co2_emmission": 11.209999999999999
+  },
+  {
+    "country": "Venezuela",
+    "food_category": "Fish",
+    "consumption": 8.34,
+    "co2_emmission": 13.32
+  },
+  {
+    "country": "Venezuela",
+    "food_category": "Eggs",
+    "consumption": 5.63,
+    "co2_emmission": 5.17
+  },
+  {
+    "country": "Venezuela",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 117.79,
+    "co2_emmission": 167.78
+  },
+  {
+    "country": "Venezuela",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 49.17,
+    "co2_emmission": 9.38
+  },
+  {
+    "country": "Venezuela",
+    "food_category": "Rice",
+    "consumption": 23.39,
+    "co2_emmission": 29.93
+  },
+  {
+    "country": "Venezuela",
+    "food_category": "Soybeans",
+    "consumption": 0,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Venezuela",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 0.35,
+    "co2_emmission": 0.62
+  },
+  {
+    "country": "Belgium",
+    "food_category": "Pork",
+    "consumption": 38.65,
+    "co2_emmission": 136.8
+  },
+  {
+    "country": "Belgium",
+    "food_category": "Poultry",
+    "consumption": 12.2,
+    "co2_emmission": 13.11
+  },
+  {
+    "country": "Belgium",
+    "food_category": "Beef",
+    "consumption": 15.629999999999999,
+    "co2_emmission": 482.31
+  },
+  {
+    "country": "Belgium",
+    "food_category": "Lamb & Goat",
+    "consumption": 1.32,
+    "co2_emmission": 46.230000000000004
+  },
+  {
+    "country": "Belgium",
+    "food_category": "Fish",
+    "consumption": 18.97,
+    "co2_emmission": 30.29
+  },
+  {
+    "country": "Belgium",
+    "food_category": "Eggs",
+    "consumption": 12.59,
+    "co2_emmission": 11.57
+  },
+  {
+    "country": "Belgium",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 236.19,
+    "co2_emmission": 336.42999999999995
+  },
+  {
+    "country": "Belgium",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 111.91000000000001,
+    "co2_emmission": 21.34
+  },
+  {
+    "country": "Belgium",
+    "food_category": "Rice",
+    "consumption": 8.61,
+    "co2_emmission": 11.02
+  },
+  {
+    "country": "Belgium",
+    "food_category": "Soybeans",
+    "consumption": 0.07,
+    "co2_emmission": 0.03
+  },
+  {
+    "country": "Belgium",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 7.319999999999999,
+    "co2_emmission": 12.96
+  },
+  {
+    "country": "Germany",
+    "food_category": "Pork",
+    "consumption": 51.809999999999995,
+    "co2_emmission": 183.38000000000002
+  },
+  {
+    "country": "Germany",
+    "food_category": "Poultry",
+    "consumption": 17.75,
+    "co2_emmission": 19.07
+  },
+  {
+    "country": "Germany",
+    "food_category": "Beef",
+    "consumption": 13.16,
+    "co2_emmission": 406.09
+  },
+  {
+    "country": "Germany",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.73,
+    "co2_emmission": 25.56
+  },
+  {
+    "country": "Germany",
+    "food_category": "Fish",
+    "consumption": 11.16,
+    "co2_emmission": 17.82
+  },
+  {
+    "country": "Germany",
+    "food_category": "Eggs",
+    "consumption": 12.2,
+    "co2_emmission": 11.209999999999999
+  },
+  {
+    "country": "Germany",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 258.7,
+    "co2_emmission": 368.48999999999995
+  },
+  {
+    "country": "Germany",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 83.41000000000001,
+    "co2_emmission": 15.91
+  },
+  {
+    "country": "Germany",
+    "food_category": "Rice",
+    "consumption": 3.34,
+    "co2_emmission": 4.2700000000000005
+  },
+  {
+    "country": "Germany",
+    "food_category": "Soybeans",
+    "consumption": 0.88,
+    "co2_emmission": 0.4
+  },
+  {
+    "country": "Germany",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 7.96,
+    "co2_emmission": 14.09
+  },
+  {
+    "country": "Russia",
+    "food_category": "Pork",
+    "consumption": 25.66,
+    "co2_emmission": 90.82
+  },
+  {
+    "country": "Russia",
+    "food_category": "Poultry",
+    "consumption": 27.5,
+    "co2_emmission": 29.54
+  },
+  {
+    "country": "Russia",
+    "food_category": "Beef",
+    "consumption": 16.979999999999997,
+    "co2_emmission": 523.97
+  },
+  {
+    "country": "Russia",
+    "food_category": "Lamb & Goat",
+    "consumption": 1.4,
+    "co2_emmission": 49.03
+  },
+  {
+    "country": "Russia",
+    "food_category": "Fish",
+    "consumption": 20.82,
+    "co2_emmission": 33.24
+  },
+  {
+    "country": "Russia",
+    "food_category": "Eggs",
+    "consumption": 15.43,
+    "co2_emmission": 14.17
+  },
+  {
+    "country": "Russia",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 163.57,
+    "co2_emmission": 232.99
+  },
+  {
+    "country": "Russia",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 130.99,
+    "co2_emmission": 24.979999999999997
+  },
+  {
+    "country": "Russia",
+    "food_category": "Rice",
+    "consumption": 4.71,
+    "co2_emmission": 6.03
+  },
+  {
+    "country": "Russia",
+    "food_category": "Soybeans",
+    "consumption": 0.05,
+    "co2_emmission": 0.02
+  },
+  {
+    "country": "Russia",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 1.62,
+    "co2_emmission": 2.8699999999999997
+  },
+  {
+    "country": "Croatia",
+    "food_category": "Pork",
+    "consumption": 42.790000000000006,
+    "co2_emmission": 151.46
+  },
+  {
+    "country": "Croatia",
+    "food_category": "Poultry",
+    "consumption": 8.52,
+    "co2_emmission": 9.15
+  },
+  {
+    "country": "Croatia",
+    "food_category": "Beef",
+    "consumption": 12.41,
+    "co2_emmission": 382.95
+  },
+  {
+    "country": "Croatia",
+    "food_category": "Lamb & Goat",
+    "consumption": 1.71,
+    "co2_emmission": 59.879999999999995
+  },
+  {
+    "country": "Croatia",
+    "food_category": "Fish",
+    "consumption": 15.83,
+    "co2_emmission": 25.279999999999998
+  },
+  {
+    "country": "Croatia",
+    "food_category": "Eggs",
+    "consumption": 8.48,
+    "co2_emmission": 7.79
+  },
+  {
+    "country": "Croatia",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 231.02,
+    "co2_emmission": 329.06
+  },
+  {
+    "country": "Croatia",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 106.59,
+    "co2_emmission": 20.330000000000002
+  },
+  {
+    "country": "Croatia",
+    "food_category": "Rice",
+    "consumption": 2.64,
+    "co2_emmission": 3.38
+  },
+  {
+    "country": "Croatia",
+    "food_category": "Soybeans",
+    "consumption": 0,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Croatia",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 3.88,
+    "co2_emmission": 6.87
+  },
+  {
+    "country": "Belarus",
+    "food_category": "Pork",
+    "consumption": 40.37,
+    "co2_emmission": 142.89000000000001
+  },
+  {
+    "country": "Belarus",
+    "food_category": "Poultry",
+    "consumption": 31.29,
+    "co2_emmission": 33.61
+  },
+  {
+    "country": "Belarus",
+    "food_category": "Beef",
+    "consumption": 17.110000000000003,
+    "co2_emmission": 527.98
+  },
+  {
+    "country": "Belarus",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.11,
+    "co2_emmission": 3.8499999999999996
+  },
+  {
+    "country": "Belarus",
+    "food_category": "Fish",
+    "consumption": 15.75,
+    "co2_emmission": 25.150000000000002
+  },
+  {
+    "country": "Belarus",
+    "food_category": "Eggs",
+    "consumption": 15.860000000000001,
+    "co2_emmission": 14.57
+  },
+  {
+    "country": "Belarus",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 133.73,
+    "co2_emmission": 190.49
+  },
+  {
+    "country": "Belarus",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 60.48,
+    "co2_emmission": 11.53
+  },
+  {
+    "country": "Belarus",
+    "food_category": "Rice",
+    "consumption": 3.17,
+    "co2_emmission": 4.06
+  },
+  {
+    "country": "Belarus",
+    "food_category": "Soybeans",
+    "consumption": 0.3,
+    "co2_emmission": 0.14
+  },
+  {
+    "country": "Belarus",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 3.36,
+    "co2_emmission": 5.95
+  },
+  {
+    "country": "Spain",
+    "food_category": "Pork",
+    "consumption": 48.92,
+    "co2_emmission": 173.15
+  },
+  {
+    "country": "Spain",
+    "food_category": "Poultry",
+    "consumption": 28.630000000000003,
+    "co2_emmission": 30.75
+  },
+  {
+    "country": "Spain",
+    "food_category": "Beef",
+    "consumption": 12.15,
+    "co2_emmission": 374.91999999999996
+  },
+  {
+    "country": "Spain",
+    "food_category": "Lamb & Goat",
+    "consumption": 2.16,
+    "co2_emmission": 75.64
+  },
+  {
+    "country": "Spain",
+    "food_category": "Fish",
+    "consumption": 28.830000000000002,
+    "co2_emmission": 46.03
+  },
+  {
+    "country": "Spain",
+    "food_category": "Eggs",
+    "consumption": 13.32,
+    "co2_emmission": 12.239999999999998
+  },
+  {
+    "country": "Spain",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 164.29,
+    "co2_emmission": 234.01
+  },
+  {
+    "country": "Spain",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 93.88,
+    "co2_emmission": 17.9
+  },
+  {
+    "country": "Spain",
+    "food_category": "Rice",
+    "consumption": 8.32,
+    "co2_emmission": 10.65
+  },
+  {
+    "country": "Spain",
+    "food_category": "Soybeans",
+    "consumption": 0.02,
+    "co2_emmission": 0.01
+  },
+  {
+    "country": "Spain",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 7.44,
+    "co2_emmission": 13.17
+  },
+  {
+    "country": "Paraguay",
+    "food_category": "Pork",
+    "consumption": 26.24,
+    "co2_emmission": 92.88
+  },
+  {
+    "country": "Paraguay",
+    "food_category": "Poultry",
+    "consumption": 6.39,
+    "co2_emmission": 6.859999999999999
+  },
+  {
+    "country": "Paraguay",
+    "food_category": "Beef",
+    "consumption": 19.810000000000002,
+    "co2_emmission": 611.2900000000001
+  },
+  {
+    "country": "Paraguay",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.56,
+    "co2_emmission": 19.610000000000003
+  },
+  {
+    "country": "Paraguay",
+    "food_category": "Fish",
+    "consumption": 3.6,
+    "co2_emmission": 5.75
+  },
+  {
+    "country": "Paraguay",
+    "food_category": "Eggs",
+    "consumption": 18.830000000000002,
+    "co2_emmission": 17.3
+  },
+  {
+    "country": "Paraguay",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 75.72,
+    "co2_emmission": 107.86
+  },
+  {
+    "country": "Paraguay",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 31.51,
+    "co2_emmission": 6.01
+  },
+  {
+    "country": "Paraguay",
+    "food_category": "Rice",
+    "consumption": 4.91,
+    "co2_emmission": 6.28
+  },
+  {
+    "country": "Paraguay",
+    "food_category": "Soybeans",
+    "consumption": 0,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Paraguay",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 1.6,
+    "co2_emmission": 2.8299999999999996
+  },
+  {
+    "country": "New Caledonia",
+    "food_category": "Pork",
+    "consumption": 19.9,
+    "co2_emmission": 70.44000000000001
+  },
+  {
+    "country": "New Caledonia",
+    "food_category": "Poultry",
+    "consumption": 44.36,
+    "co2_emmission": 47.65
+  },
+  {
+    "country": "New Caledonia",
+    "food_category": "Beef",
+    "consumption": 16.07,
+    "co2_emmission": 495.89
+  },
+  {
+    "country": "New Caledonia",
+    "food_category": "Lamb & Goat",
+    "consumption": 1.95,
+    "co2_emmission": 68.29
+  },
+  {
+    "country": "New Caledonia",
+    "food_category": "Fish",
+    "consumption": 19.38,
+    "co2_emmission": 30.939999999999998
+  },
+  {
+    "country": "New Caledonia",
+    "food_category": "Eggs",
+    "consumption": 8.850000000000001,
+    "co2_emmission": 8.129999999999999
+  },
+  {
+    "country": "New Caledonia",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 108,
+    "co2_emmission": 153.84
+  },
+  {
+    "country": "New Caledonia",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 81.75,
+    "co2_emmission": 15.59
+  },
+  {
+    "country": "New Caledonia",
+    "food_category": "Rice",
+    "consumption": 17.47,
+    "co2_emmission": 22.36
+  },
+  {
+    "country": "New Caledonia",
+    "food_category": "Soybeans",
+    "consumption": 0.55,
+    "co2_emmission": 0.25
+  },
+  {
+    "country": "New Caledonia",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 2.96,
+    "co2_emmission": 5.24
+  },
+  {
+    "country": "South Africa",
+    "food_category": "Pork",
+    "consumption": 4.159999999999999,
+    "co2_emmission": 14.719999999999999
+  },
+  {
+    "country": "South Africa",
+    "food_category": "Poultry",
+    "consumption": 37.57,
+    "co2_emmission": 40.36
+  },
+  {
+    "country": "South Africa",
+    "food_category": "Beef",
+    "consumption": 18.03,
+    "co2_emmission": 556.37
+  },
+  {
+    "country": "South Africa",
+    "food_category": "Lamb & Goat",
+    "consumption": 4.28,
+    "co2_emmission": 149.89000000000001
+  },
+  {
+    "country": "South Africa",
+    "food_category": "Fish",
+    "consumption": 5.56,
+    "co2_emmission": 8.88
+  },
+  {
+    "country": "South Africa",
+    "food_category": "Eggs",
+    "consumption": 7.21,
+    "co2_emmission": 6.619999999999999
+  },
+  {
+    "country": "South Africa",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 55.75,
+    "co2_emmission": 79.41000000000001
+  },
+  {
+    "country": "South Africa",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 60.13,
+    "co2_emmission": 11.47
+  },
+  {
+    "country": "South Africa",
+    "food_category": "Rice",
+    "consumption": 17.41,
+    "co2_emmission": 22.279999999999998
+  },
+  {
+    "country": "South Africa",
+    "food_category": "Soybeans",
+    "consumption": 1.27,
+    "co2_emmission": 0.5700000000000001
+  },
+  {
+    "country": "South Africa",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 1.04,
+    "co2_emmission": 1.84
+  },
+  {
+    "country": "Barbados",
+    "food_category": "Pork",
+    "consumption": 8.3,
+    "co2_emmission": 29.38
+  },
+  {
+    "country": "Barbados",
+    "food_category": "Poultry",
+    "consumption": 42.620000000000005,
+    "co2_emmission": 45.78
+  },
+  {
+    "country": "Barbados",
+    "food_category": "Beef",
+    "consumption": 13.129999999999999,
+    "co2_emmission": 405.16
+  },
+  {
+    "country": "Barbados",
+    "food_category": "Lamb & Goat",
+    "consumption": 4.08,
+    "co2_emmission": 142.88000000000002
+  },
+  {
+    "country": "Barbados",
+    "food_category": "Fish",
+    "consumption": 37.41,
+    "co2_emmission": 59.730000000000004
+  },
+  {
+    "country": "Barbados",
+    "food_category": "Eggs",
+    "consumption": 9.61,
+    "co2_emmission": 8.83
+  },
+  {
+    "country": "Barbados",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 110.48,
+    "co2_emmission": 157.37
+  },
+  {
+    "country": "Barbados",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 65.71000000000001,
+    "co2_emmission": 12.53
+  },
+  {
+    "country": "Barbados",
+    "food_category": "Rice",
+    "consumption": 15.66,
+    "co2_emmission": 20.04
+  },
+  {
+    "country": "Barbados",
+    "food_category": "Soybeans",
+    "consumption": 0.1,
+    "co2_emmission": 0.05
+  },
+  {
+    "country": "Barbados",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 4.159999999999999,
+    "co2_emmission": 7.359999999999999
+  },
+  {
+    "country": "Lithuania",
+    "food_category": "Pork",
+    "consumption": 45.67,
+    "co2_emmission": 161.65
+  },
+  {
+    "country": "Lithuania",
+    "food_category": "Poultry",
+    "consumption": 26.84,
+    "co2_emmission": 28.830000000000002
+  },
+  {
+    "country": "Lithuania",
+    "food_category": "Beef",
+    "consumption": 4.49,
+    "co2_emmission": 138.55
+  },
+  {
+    "country": "Lithuania",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.24000000000000002,
+    "co2_emmission": 8.4
+  },
+  {
+    "country": "Lithuania",
+    "food_category": "Fish",
+    "consumption": 42.39,
+    "co2_emmission": 67.67999999999999
+  },
+  {
+    "country": "Lithuania",
+    "food_category": "Eggs",
+    "consumption": 13.11,
+    "co2_emmission": 12.04
+  },
+  {
+    "country": "Lithuania",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 295.46,
+    "co2_emmission": 420.85
+  },
+  {
+    "country": "Lithuania",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 121.59,
+    "co2_emmission": 23.19
+  },
+  {
+    "country": "Lithuania",
+    "food_category": "Rice",
+    "consumption": 3.07,
+    "co2_emmission": 3.9299999999999997
+  },
+  {
+    "country": "Lithuania",
+    "food_category": "Soybeans",
+    "consumption": 0.02,
+    "co2_emmission": 0.01
+  },
+  {
+    "country": "Lithuania",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 2.13,
+    "co2_emmission": 3.77
+  },
+  {
+    "country": "Turkey",
+    "food_category": "Pork",
+    "consumption": 0.01,
+    "co2_emmission": 0.04
+  },
+  {
+    "country": "Turkey",
+    "food_category": "Poultry",
+    "consumption": 18.779999999999998,
+    "co2_emmission": 20.17
+  },
+  {
+    "country": "Turkey",
+    "food_category": "Beef",
+    "consumption": 11.639999999999999,
+    "co2_emmission": 359.19
+  },
+  {
+    "country": "Turkey",
+    "food_category": "Lamb & Goat",
+    "consumption": 4.68,
+    "co2_emmission": 163.89000000000001
+  },
+  {
+    "country": "Turkey",
+    "food_category": "Fish",
+    "consumption": 5.58,
+    "co2_emmission": 8.91
+  },
+  {
+    "country": "Turkey",
+    "food_category": "Eggs",
+    "consumption": 8.2,
+    "co2_emmission": 7.53
+  },
+  {
+    "country": "Turkey",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 193.94,
+    "co2_emmission": 276.25
+  },
+  {
+    "country": "Turkey",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 169.96,
+    "co2_emmission": 32.41
+  },
+  {
+    "country": "Turkey",
+    "food_category": "Rice",
+    "consumption": 10.739999999999998,
+    "co2_emmission": 13.739999999999998
+  },
+  {
+    "country": "Turkey",
+    "food_category": "Soybeans",
+    "consumption": 1.71,
+    "co2_emmission": 0.77
+  },
+  {
+    "country": "Turkey",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 7.970000000000001,
+    "co2_emmission": 14.11
+  },
+  {
+    "country": "Estonia",
+    "food_category": "Pork",
+    "consumption": 29.68,
+    "co2_emmission": 105.05
+  },
+  {
+    "country": "Estonia",
+    "food_category": "Poultry",
+    "consumption": 21.110000000000003,
+    "co2_emmission": 22.68
+  },
+  {
+    "country": "Estonia",
+    "food_category": "Beef",
+    "consumption": 7.1899999999999995,
+    "co2_emmission": 221.87
+  },
+  {
+    "country": "Estonia",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.44,
+    "co2_emmission": 15.41
+  },
+  {
+    "country": "Estonia",
+    "food_category": "Fish",
+    "consumption": 12.78,
+    "co2_emmission": 20.41
+  },
+  {
+    "country": "Estonia",
+    "food_category": "Eggs",
+    "consumption": 12.66,
+    "co2_emmission": 11.629999999999999
+  },
+  {
+    "country": "Estonia",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 284.85,
+    "co2_emmission": 405.74
+  },
+  {
+    "country": "Estonia",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 89.36,
+    "co2_emmission": 17.04
+  },
+  {
+    "country": "Estonia",
+    "food_category": "Rice",
+    "consumption": 2.56,
+    "co2_emmission": 3.2800000000000002
+  },
+  {
+    "country": "Estonia",
+    "food_category": "Soybeans",
+    "consumption": 0.04,
+    "co2_emmission": 0.02
+  },
+  {
+    "country": "Estonia",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 4.29,
+    "co2_emmission": 7.59
+  },
+  {
+    "country": "Mexico",
+    "food_category": "Pork",
+    "consumption": 15.229999999999999,
+    "co2_emmission": 53.91
+  },
+  {
+    "country": "Mexico",
+    "food_category": "Poultry",
+    "consumption": 30.12,
+    "co2_emmission": 32.349999999999994
+  },
+  {
+    "country": "Mexico",
+    "food_category": "Beef",
+    "consumption": 15.33,
+    "co2_emmission": 473.05
+  },
+  {
+    "country": "Mexico",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.89,
+    "co2_emmission": 31.17
+  },
+  {
+    "country": "Mexico",
+    "food_category": "Fish",
+    "consumption": 7.56,
+    "co2_emmission": 12.07
+  },
+  {
+    "country": "Mexico",
+    "food_category": "Eggs",
+    "consumption": 18.34,
+    "co2_emmission": 16.85
+  },
+  {
+    "country": "Mexico",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 111.86999999999999,
+    "co2_emmission": 159.35000000000002
+  },
+  {
+    "country": "Mexico",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 35.21,
+    "co2_emmission": 6.71
+  },
+  {
+    "country": "Mexico",
+    "food_category": "Rice",
+    "consumption": 5.64,
+    "co2_emmission": 7.22
+  },
+  {
+    "country": "Mexico",
+    "food_category": "Soybeans",
+    "consumption": 0.02,
+    "co2_emmission": 0.01
+  },
+  {
+    "country": "Mexico",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 2.51,
+    "co2_emmission": 4.44
+  },
+  {
+    "country": "Costa Rica",
+    "food_category": "Pork",
+    "consumption": 10.28,
+    "co2_emmission": 36.39
+  },
+  {
+    "country": "Costa Rica",
+    "food_category": "Poultry",
+    "consumption": 24.47,
+    "co2_emmission": 26.29
+  },
+  {
+    "country": "Costa Rica",
+    "food_category": "Beef",
+    "consumption": 15.229999999999999,
+    "co2_emmission": 469.96999999999997
+  },
+  {
+    "country": "Costa Rica",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.02,
+    "co2_emmission": 0.7
+  },
+  {
+    "country": "Costa Rica",
+    "food_category": "Fish",
+    "consumption": 11.32,
+    "co2_emmission": 18.07
+  },
+  {
+    "country": "Costa Rica",
+    "food_category": "Eggs",
+    "consumption": 10.55,
+    "co2_emmission": 9.69
+  },
+  {
+    "country": "Costa Rica",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 183.28,
+    "co2_emmission": 261.06
+  },
+  {
+    "country": "Costa Rica",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 39.309999999999995,
+    "co2_emmission": 7.5
+  },
+  {
+    "country": "Costa Rica",
+    "food_category": "Rice",
+    "consumption": 45.690000000000005,
+    "co2_emmission": 58.47
+  },
+  {
+    "country": "Costa Rica",
+    "food_category": "Soybeans",
+    "consumption": 1.54,
+    "co2_emmission": 0.69
+  },
+  {
+    "country": "Costa Rica",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 1.3800000000000001,
+    "co2_emmission": 2.44
+  },
+  {
+    "country": "Bolivia",
+    "food_category": "Pork",
+    "consumption": 8.89,
+    "co2_emmission": 31.47
+  },
+  {
+    "country": "Bolivia",
+    "food_category": "Poultry",
+    "consumption": 34.309999999999995,
+    "co2_emmission": 36.86
+  },
+  {
+    "country": "Bolivia",
+    "food_category": "Beef",
+    "consumption": 19.779999999999998,
+    "co2_emmission": 610.37
+  },
+  {
+    "country": "Bolivia",
+    "food_category": "Lamb & Goat",
+    "consumption": 1.72,
+    "co2_emmission": 60.230000000000004
+  },
+  {
+    "country": "Bolivia",
+    "food_category": "Fish",
+    "consumption": 2.18,
+    "co2_emmission": 3.48
+  },
+  {
+    "country": "Bolivia",
+    "food_category": "Eggs",
+    "consumption": 5.18,
+    "co2_emmission": 4.76
+  },
+  {
+    "country": "Bolivia",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 46.04,
+    "co2_emmission": 65.58
+  },
+  {
+    "country": "Bolivia",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 49.99,
+    "co2_emmission": 9.53
+  },
+  {
+    "country": "Bolivia",
+    "food_category": "Rice",
+    "consumption": 26.99,
+    "co2_emmission": 34.54
+  },
+  {
+    "country": "Bolivia",
+    "food_category": "Soybeans",
+    "consumption": 0.01,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Bolivia",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 9.16,
+    "co2_emmission": 16.21
+  },
+  {
+    "country": "Ecuador",
+    "food_category": "Pork",
+    "consumption": 14.44,
+    "co2_emmission": 51.11
+  },
+  {
+    "country": "Ecuador",
+    "food_category": "Poultry",
+    "consumption": 21.85,
+    "co2_emmission": 23.47
+  },
+  {
+    "country": "Ecuador",
+    "food_category": "Beef",
+    "consumption": 16.610000000000003,
+    "co2_emmission": 512.55
+  },
+  {
+    "country": "Ecuador",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.44,
+    "co2_emmission": 15.41
+  },
+  {
+    "country": "Ecuador",
+    "food_category": "Fish",
+    "consumption": 5.17,
+    "co2_emmission": 8.25
+  },
+  {
+    "country": "Ecuador",
+    "food_category": "Eggs",
+    "consumption": 8.01,
+    "co2_emmission": 7.359999999999999
+  },
+  {
+    "country": "Ecuador",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 139.6,
+    "co2_emmission": 198.85000000000002
+  },
+  {
+    "country": "Ecuador",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 39.190000000000005,
+    "co2_emmission": 7.470000000000001
+  },
+  {
+    "country": "Ecuador",
+    "food_category": "Rice",
+    "consumption": 45.07,
+    "co2_emmission": 57.68
+  },
+  {
+    "country": "Ecuador",
+    "food_category": "Soybeans",
+    "consumption": 0,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Ecuador",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 0.98,
+    "co2_emmission": 1.73
+  },
+  {
+    "country": "Panama",
+    "food_category": "Pork",
+    "consumption": 13.48,
+    "co2_emmission": 47.71
+  },
+  {
+    "country": "Panama",
+    "food_category": "Poultry",
+    "consumption": 30.810000000000002,
+    "co2_emmission": 33.1
+  },
+  {
+    "country": "Panama",
+    "food_category": "Beef",
+    "consumption": 20.4,
+    "co2_emmission": 629.5
+  },
+  {
+    "country": "Panama",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.01,
+    "co2_emmission": 0.35
+  },
+  {
+    "country": "Panama",
+    "food_category": "Fish",
+    "consumption": 11.05,
+    "co2_emmission": 17.64
+  },
+  {
+    "country": "Panama",
+    "food_category": "Eggs",
+    "consumption": 4.53,
+    "co2_emmission": 4.159999999999999
+  },
+  {
+    "country": "Panama",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 70.29,
+    "co2_emmission": 100.11999999999999
+  },
+  {
+    "country": "Panama",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 38.96,
+    "co2_emmission": 7.430000000000001
+  },
+  {
+    "country": "Panama",
+    "food_category": "Rice",
+    "consumption": 66.42,
+    "co2_emmission": 85
+  },
+  {
+    "country": "Panama",
+    "food_category": "Soybeans",
+    "consumption": 3.53,
+    "co2_emmission": 1.59
+  },
+  {
+    "country": "Panama",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 1.05,
+    "co2_emmission": 1.86
+  },
+  {
+    "country": "Czech Republic",
+    "food_category": "Pork",
+    "consumption": 41.17,
+    "co2_emmission": 145.72
+  },
+  {
+    "country": "Czech Republic",
+    "food_category": "Poultry",
+    "consumption": 19.09,
+    "co2_emmission": 20.51
+  },
+  {
+    "country": "Czech Republic",
+    "food_category": "Beef",
+    "consumption": 8.15,
+    "co2_emmission": 251.49
+  },
+  {
+    "country": "Czech Republic",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.33999999999999997,
+    "co2_emmission": 11.91
+  },
+  {
+    "country": "Czech Republic",
+    "food_category": "Fish",
+    "consumption": 8.25,
+    "co2_emmission": 13.17
+  },
+  {
+    "country": "Czech Republic",
+    "food_category": "Eggs",
+    "consumption": 11.66,
+    "co2_emmission": 10.709999999999999
+  },
+  {
+    "country": "Czech Republic",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 195.2,
+    "co2_emmission": 278.04
+  },
+  {
+    "country": "Czech Republic",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 92.66999999999999,
+    "co2_emmission": 17.67
+  },
+  {
+    "country": "Czech Republic",
+    "food_category": "Rice",
+    "consumption": 4.79,
+    "co2_emmission": 6.13
+  },
+  {
+    "country": "Czech Republic",
+    "food_category": "Soybeans",
+    "consumption": 0.8200000000000001,
+    "co2_emmission": 0.37
+  },
+  {
+    "country": "Czech Republic",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 2.4699999999999998,
+    "co2_emmission": 4.37
+  },
+  {
+    "country": "Romania",
+    "food_category": "Pork",
+    "consumption": 25.310000000000002,
+    "co2_emmission": 89.58
+  },
+  {
+    "country": "Romania",
+    "food_category": "Poultry",
+    "consumption": 15.38,
+    "co2_emmission": 16.52
+  },
+  {
+    "country": "Romania",
+    "food_category": "Beef",
+    "consumption": 4.78,
+    "co2_emmission": 147.5
+  },
+  {
+    "country": "Romania",
+    "food_category": "Lamb & Goat",
+    "consumption": 3.4099999999999997,
+    "co2_emmission": 119.42
+  },
+  {
+    "country": "Romania",
+    "food_category": "Fish",
+    "consumption": 6.07,
+    "co2_emmission": 9.69
+  },
+  {
+    "country": "Romania",
+    "food_category": "Eggs",
+    "consumption": 12.94,
+    "co2_emmission": 11.89
+  },
+  {
+    "country": "Romania",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 238.33,
+    "co2_emmission": 339.47999999999996
+  },
+  {
+    "country": "Romania",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 134.87,
+    "co2_emmission": 25.72
+  },
+  {
+    "country": "Romania",
+    "food_category": "Rice",
+    "consumption": 2.59,
+    "co2_emmission": 3.3099999999999996
+  },
+  {
+    "country": "Romania",
+    "food_category": "Soybeans",
+    "consumption": 0.01,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Romania",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 1.8,
+    "co2_emmission": 3.19
+  },
+  {
+    "country": "Colombia",
+    "food_category": "Pork",
+    "consumption": 6.51,
+    "co2_emmission": 23.04
+  },
+  {
+    "country": "Colombia",
+    "food_category": "Poultry",
+    "consumption": 27.57,
+    "co2_emmission": 29.62
+  },
+  {
+    "country": "Colombia",
+    "food_category": "Beef",
+    "consumption": 16.36,
+    "co2_emmission": 504.84000000000003
+  },
+  {
+    "country": "Colombia",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.21000000000000002,
+    "co2_emmission": 7.35
+  },
+  {
+    "country": "Colombia",
+    "food_category": "Fish",
+    "consumption": 6.01,
+    "co2_emmission": 9.6
+  },
+  {
+    "country": "Colombia",
+    "food_category": "Eggs",
+    "consumption": 10.78,
+    "co2_emmission": 9.9
+  },
+  {
+    "country": "Colombia",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 108.47,
+    "co2_emmission": 154.5
+  },
+  {
+    "country": "Colombia",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 29.79,
+    "co2_emmission": 5.68
+  },
+  {
+    "country": "Colombia",
+    "food_category": "Rice",
+    "consumption": 28.02,
+    "co2_emmission": 35.86
+  },
+  {
+    "country": "Colombia",
+    "food_category": "Soybeans",
+    "consumption": 0.89,
+    "co2_emmission": 0.4
+  },
+  {
+    "country": "Colombia",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 0.42000000000000004,
+    "co2_emmission": 0.74
+  },
+  {
+    "country": "Maldives",
+    "food_category": "Pork",
+    "consumption": 1.22,
+    "co2_emmission": 4.319999999999999
+  },
+  {
+    "country": "Maldives",
+    "food_category": "Poultry",
+    "consumption": 18.47,
+    "co2_emmission": 19.84
+  },
+  {
+    "country": "Maldives",
+    "food_category": "Beef",
+    "consumption": 9.44,
+    "co2_emmission": 291.3
+  },
+  {
+    "country": "Maldives",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.7,
+    "co2_emmission": 24.51
+  },
+  {
+    "country": "Maldives",
+    "food_category": "Fish",
+    "consumption": 179.70999999999998,
+    "co2_emmission": 286.94
+  },
+  {
+    "country": "Maldives",
+    "food_category": "Eggs",
+    "consumption": 10.79,
+    "co2_emmission": 9.91
+  },
+  {
+    "country": "Maldives",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 111.47,
+    "co2_emmission": 158.78
+  },
+  {
+    "country": "Maldives",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 77.77,
+    "co2_emmission": 14.83
+  },
+  {
+    "country": "Maldives",
+    "food_category": "Rice",
+    "consumption": 50.730000000000004,
+    "co2_emmission": 64.92
+  },
+  {
+    "country": "Maldives",
+    "food_category": "Soybeans",
+    "consumption": 0.2,
+    "co2_emmission": 0.09
+  },
+  {
+    "country": "Maldives",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 15.83,
+    "co2_emmission": 28.02
+  },
+  {
+    "country": "Cyprus",
+    "food_category": "Pork",
+    "consumption": 38.379999999999995,
+    "co2_emmission": 135.85000000000002
+  },
+  {
+    "country": "Cyprus",
+    "food_category": "Poultry",
+    "consumption": 24.45,
+    "co2_emmission": 26.259999999999998
+  },
+  {
+    "country": "Cyprus",
+    "food_category": "Beef",
+    "consumption": 5.79,
+    "co2_emmission": 178.67
+  },
+  {
+    "country": "Cyprus",
+    "food_category": "Lamb & Goat",
+    "consumption": 5.05,
+    "co2_emmission": 176.85000000000002
+  },
+  {
+    "country": "Cyprus",
+    "food_category": "Fish",
+    "consumption": 14.860000000000001,
+    "co2_emmission": 23.73
+  },
+  {
+    "country": "Cyprus",
+    "food_category": "Eggs",
+    "consumption": 8.98,
+    "co2_emmission": 8.25
+  },
+  {
+    "country": "Cyprus",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 113.31,
+    "co2_emmission": 161.4
+  },
+  {
+    "country": "Cyprus",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 83.25,
+    "co2_emmission": 15.88
+  },
+  {
+    "country": "Cyprus",
+    "food_category": "Rice",
+    "consumption": 4.94,
+    "co2_emmission": 6.319999999999999
+  },
+  {
+    "country": "Cyprus",
+    "food_category": "Soybeans",
+    "consumption": 0.04,
+    "co2_emmission": 0.02
+  },
+  {
+    "country": "Cyprus",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 4.6,
+    "co2_emmission": 8.139999999999999
+  },
+  {
+    "country": "Serbia",
+    "food_category": "Pork",
+    "consumption": 32.04,
+    "co2_emmission": 113.41000000000001
+  },
+  {
+    "country": "Serbia",
+    "food_category": "Poultry",
+    "consumption": 10.639999999999999,
+    "co2_emmission": 11.43
+  },
+  {
+    "country": "Serbia",
+    "food_category": "Beef",
+    "consumption": 7.05,
+    "co2_emmission": 217.55
+  },
+  {
+    "country": "Serbia",
+    "food_category": "Lamb & Goat",
+    "consumption": 3.56,
+    "co2_emmission": 124.66999999999999
+  },
+  {
+    "country": "Serbia",
+    "food_category": "Fish",
+    "consumption": 5.59,
+    "co2_emmission": 8.93
+  },
+  {
+    "country": "Serbia",
+    "food_category": "Eggs",
+    "consumption": 8.89,
+    "co2_emmission": 8.17
+  },
+  {
+    "country": "Serbia",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 148.53,
+    "co2_emmission": 211.57
+  },
+  {
+    "country": "Serbia",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 105.88,
+    "co2_emmission": 20.19
+  },
+  {
+    "country": "Serbia",
+    "food_category": "Rice",
+    "consumption": 1.22,
+    "co2_emmission": 1.56
+  },
+  {
+    "country": "Serbia",
+    "food_category": "Soybeans",
+    "consumption": 0,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Serbia",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 3.3099999999999996,
+    "co2_emmission": 5.859999999999999
+  },
+  {
+    "country": "United Arab Emirates",
+    "food_category": "Pork",
+    "consumption": 0,
+    "co2_emmission": 0
+  },
+  {
+    "country": "United Arab Emirates",
+    "food_category": "Poultry",
+    "consumption": 41.04,
+    "co2_emmission": 44.09
+  },
+  {
+    "country": "United Arab Emirates",
+    "food_category": "Beef",
+    "consumption": 5.64,
+    "co2_emmission": 174.04
+  },
+  {
+    "country": "United Arab Emirates",
+    "food_category": "Lamb & Goat",
+    "consumption": 9.08,
+    "co2_emmission": 317.97999999999996
+  },
+  {
+    "country": "United Arab Emirates",
+    "food_category": "Fish",
+    "consumption": 20.41,
+    "co2_emmission": 32.59
+  },
+  {
+    "country": "United Arab Emirates",
+    "food_category": "Eggs",
+    "consumption": 8.229999999999999,
+    "co2_emmission": 7.56
+  },
+  {
+    "country": "United Arab Emirates",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 132.66,
+    "co2_emmission": 188.96
+  },
+  {
+    "country": "United Arab Emirates",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 101.29,
+    "co2_emmission": 19.32
+  },
+  {
+    "country": "United Arab Emirates",
+    "food_category": "Rice",
+    "consumption": 56.25,
+    "co2_emmission": 71.98
+  },
+  {
+    "country": "United Arab Emirates",
+    "food_category": "Soybeans",
+    "consumption": 0.08,
+    "co2_emmission": 0.04
+  },
+  {
+    "country": "United Arab Emirates",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 23.03,
+    "co2_emmission": 40.760000000000005
+  },
+  {
+    "country": "Algeria",
+    "food_category": "Pork",
+    "consumption": 0,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Algeria",
+    "food_category": "Poultry",
+    "consumption": 7.42,
+    "co2_emmission": 7.970000000000001
+  },
+  {
+    "country": "Algeria",
+    "food_category": "Beef",
+    "consumption": 5.6,
+    "co2_emmission": 172.8
+  },
+  {
+    "country": "Algeria",
+    "food_category": "Lamb & Goat",
+    "consumption": 7.6899999999999995,
+    "co2_emmission": 269.3
+  },
+  {
+    "country": "Algeria",
+    "food_category": "Fish",
+    "consumption": 3.74,
+    "co2_emmission": 5.970000000000001
+  },
+  {
+    "country": "Algeria",
+    "food_category": "Eggs",
+    "consumption": 8.06,
+    "co2_emmission": 7.4
+  },
+  {
+    "country": "Algeria",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 141.53,
+    "co2_emmission": 201.6
+  },
+  {
+    "country": "Algeria",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 185.42000000000002,
+    "co2_emmission": 35.36
+  },
+  {
+    "country": "Algeria",
+    "food_category": "Rice",
+    "consumption": 2.9699999999999998,
+    "co2_emmission": 3.8
+  },
+  {
+    "country": "Algeria",
+    "food_category": "Soybeans",
+    "consumption": 0,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Algeria",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 2.08,
+    "co2_emmission": 3.68
+  },
+  {
+    "country": "Ukraine",
+    "food_category": "Pork",
+    "consumption": 20.56,
+    "co2_emmission": 72.77
+  },
+  {
+    "country": "Ukraine",
+    "food_category": "Poultry",
+    "consumption": 24.23,
+    "co2_emmission": 26.03
+  },
+  {
+    "country": "Ukraine",
+    "food_category": "Beef",
+    "consumption": 8.96,
+    "co2_emmission": 276.48999999999995
+  },
+  {
+    "country": "Ukraine",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.41000000000000003,
+    "co2_emmission": 14.360000000000001
+  },
+  {
+    "country": "Ukraine",
+    "food_category": "Fish",
+    "consumption": 15.229999999999999,
+    "co2_emmission": 24.32
+  },
+  {
+    "country": "Ukraine",
+    "food_category": "Eggs",
+    "consumption": 18.01,
+    "co2_emmission": 16.54
+  },
+  {
+    "country": "Ukraine",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 145.03,
+    "co2_emmission": 206.58
+  },
+  {
+    "country": "Ukraine",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 105.14999999999999,
+    "co2_emmission": 20.05
+  },
+  {
+    "country": "Ukraine",
+    "food_category": "Rice",
+    "consumption": 3,
+    "co2_emmission": 3.84
+  },
+  {
+    "country": "Ukraine",
+    "food_category": "Soybeans",
+    "consumption": 0.02,
+    "co2_emmission": 0.01
+  },
+  {
+    "country": "Ukraine",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 2.68,
+    "co2_emmission": 4.74
+  },
+  {
+    "country": "Pakistan",
+    "food_category": "Pork",
+    "consumption": 0,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Pakistan",
+    "food_category": "Poultry",
+    "consumption": 5.01,
+    "co2_emmission": 5.38
+  },
+  {
+    "country": "Pakistan",
+    "food_category": "Beef",
+    "consumption": 8.82,
+    "co2_emmission": 272.17
+  },
+  {
+    "country": "Pakistan",
+    "food_category": "Lamb & Goat",
+    "consumption": 2.46,
+    "co2_emmission": 86.14999999999999
+  },
+  {
+    "country": "Pakistan",
+    "food_category": "Fish",
+    "consumption": 1.87,
+    "co2_emmission": 2.9899999999999998
+  },
+  {
+    "country": "Pakistan",
+    "food_category": "Eggs",
+    "consumption": 2.9499999999999997,
+    "co2_emmission": 2.71
+  },
+  {
+    "country": "Pakistan",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 183.13,
+    "co2_emmission": 260.85
+  },
+  {
+    "country": "Pakistan",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 113.63,
+    "co2_emmission": 21.67
+  },
+  {
+    "country": "Pakistan",
+    "food_category": "Rice",
+    "consumption": 12.25,
+    "co2_emmission": 15.68
+  },
+  {
+    "country": "Pakistan",
+    "food_category": "Soybeans",
+    "consumption": 0,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Pakistan",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 0.8300000000000001,
+    "co2_emmission": 1.47
+  },
+  {
+    "country": "Swaziland",
+    "food_category": "Pork",
+    "consumption": 2.4299999999999997,
+    "co2_emmission": 8.6
+  },
+  {
+    "country": "Swaziland",
+    "food_category": "Poultry",
+    "consumption": 6.18,
+    "co2_emmission": 6.64
+  },
+  {
+    "country": "Swaziland",
+    "food_category": "Beef",
+    "consumption": 15.1,
+    "co2_emmission": 465.95
+  },
+  {
+    "country": "Swaziland",
+    "food_category": "Lamb & Goat",
+    "consumption": 1.94,
+    "co2_emmission": 67.94000000000001
+  },
+  {
+    "country": "Swaziland",
+    "food_category": "Fish",
+    "consumption": 1.26,
+    "co2_emmission": 2.01
+  },
+  {
+    "country": "Swaziland",
+    "food_category": "Eggs",
+    "consumption": 1.5,
+    "co2_emmission": 1.3800000000000001
+  },
+  {
+    "country": "Swaziland",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 56.6,
+    "co2_emmission": 80.61999999999999
+  },
+  {
+    "country": "Swaziland",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 37.15,
+    "co2_emmission": 7.08
+  },
+  {
+    "country": "Swaziland",
+    "food_category": "Rice",
+    "consumption": 21.150000000000002,
+    "co2_emmission": 27.07
+  },
+  {
+    "country": "Swaziland",
+    "food_category": "Soybeans",
+    "consumption": 0.55,
+    "co2_emmission": 0.25
+  },
+  {
+    "country": "Swaziland",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 6.44,
+    "co2_emmission": 11.4
+  },
+  {
+    "country": "Latvia",
+    "food_category": "Pork",
+    "consumption": 34.96,
+    "co2_emmission": 123.74000000000001
+  },
+  {
+    "country": "Latvia",
+    "food_category": "Poultry",
+    "consumption": 20.53,
+    "co2_emmission": 22.05
+  },
+  {
+    "country": "Latvia",
+    "food_category": "Beef",
+    "consumption": 5.109999999999999,
+    "co2_emmission": 157.68
+  },
+  {
+    "country": "Latvia",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.33999999999999997,
+    "co2_emmission": 11.91
+  },
+  {
+    "country": "Latvia",
+    "food_category": "Fish",
+    "consumption": 21.3,
+    "co2_emmission": 34.01
+  },
+  {
+    "country": "Latvia",
+    "food_category": "Eggs",
+    "consumption": 14.03,
+    "co2_emmission": 12.89
+  },
+  {
+    "country": "Latvia",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 174.10999999999999,
+    "co2_emmission": 248
+  },
+  {
+    "country": "Latvia",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 72.13,
+    "co2_emmission": 13.76
+  },
+  {
+    "country": "Latvia",
+    "food_category": "Rice",
+    "consumption": 2.21,
+    "co2_emmission": 2.8299999999999996
+  },
+  {
+    "country": "Latvia",
+    "food_category": "Soybeans",
+    "consumption": 0.04,
+    "co2_emmission": 0.02
+  },
+  {
+    "country": "Latvia",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 3.7800000000000002,
+    "co2_emmission": 6.6899999999999995
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "food_category": "Pork",
+    "consumption": 9.38,
+    "co2_emmission": 33.2
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "food_category": "Poultry",
+    "consumption": 13.17,
+    "co2_emmission": 14.15
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "food_category": "Beef",
+    "consumption": 9.12,
+    "co2_emmission": 281.41999999999996
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.47000000000000003,
+    "co2_emmission": 16.459999999999997
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "food_category": "Fish",
+    "consumption": 4.06,
+    "co2_emmission": 6.48
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "food_category": "Eggs",
+    "consumption": 4.49,
+    "co2_emmission": 4.119999999999999
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 174.03,
+    "co2_emmission": 247.89000000000001
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 93.56,
+    "co2_emmission": 17.84
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "food_category": "Rice",
+    "consumption": 1.8800000000000001,
+    "co2_emmission": 2.4099999999999997
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "food_category": "Soybeans",
+    "consumption": 1.48,
+    "co2_emmission": 0.6699999999999999
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 2,
+    "co2_emmission": 3.54
+  },
+  {
+    "country": "Fiji",
+    "food_category": "Pork",
+    "consumption": 4.31,
+    "co2_emmission": 15.26
+  },
+  {
+    "country": "Fiji",
+    "food_category": "Poultry",
+    "consumption": 20.259999999999998,
+    "co2_emmission": 21.759999999999998
+  },
+  {
+    "country": "Fiji",
+    "food_category": "Beef",
+    "consumption": 8.96,
+    "co2_emmission": 276.48999999999995
+  },
+  {
+    "country": "Fiji",
+    "food_category": "Lamb & Goat",
+    "consumption": 5.9,
+    "co2_emmission": 206.62
+  },
+  {
+    "country": "Fiji",
+    "food_category": "Fish",
+    "consumption": 35.01,
+    "co2_emmission": 55.9
+  },
+  {
+    "country": "Fiji",
+    "food_category": "Eggs",
+    "consumption": 6.44,
+    "co2_emmission": 5.92
+  },
+  {
+    "country": "Fiji",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 40.2,
+    "co2_emmission": 57.260000000000005
+  },
+  {
+    "country": "Fiji",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 84.22,
+    "co2_emmission": 16.06
+  },
+  {
+    "country": "Fiji",
+    "food_category": "Rice",
+    "consumption": 45.620000000000005,
+    "co2_emmission": 58.379999999999995
+  },
+  {
+    "country": "Fiji",
+    "food_category": "Soybeans",
+    "consumption": 0.3,
+    "co2_emmission": 0.14
+  },
+  {
+    "country": "Fiji",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 1.3,
+    "co2_emmission": 2.3
+  },
+  {
+    "country": "South Korea",
+    "food_category": "Pork",
+    "consumption": 32.760000000000005,
+    "co2_emmission": 115.95
+  },
+  {
+    "country": "South Korea",
+    "food_category": "Poultry",
+    "consumption": 16,
+    "co2_emmission": 17.19
+  },
+  {
+    "country": "South Korea",
+    "food_category": "Beef",
+    "consumption": 14.53,
+    "co2_emmission": 448.37
+  },
+  {
+    "country": "South Korea",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.14,
+    "co2_emmission": 4.9
+  },
+  {
+    "country": "South Korea",
+    "food_category": "Fish",
+    "consumption": 33.09,
+    "co2_emmission": 52.83
+  },
+  {
+    "country": "South Korea",
+    "food_category": "Eggs",
+    "consumption": 11.239999999999998,
+    "co2_emmission": 10.33
+  },
+  {
+    "country": "South Korea",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 29.05,
+    "co2_emmission": 41.379999999999995
+  },
+  {
+    "country": "South Korea",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 50.839999999999996,
+    "co2_emmission": 9.7
+  },
+  {
+    "country": "South Korea",
+    "food_category": "Rice",
+    "consumption": 85.17999999999999,
+    "co2_emmission": 109
+  },
+  {
+    "country": "South Korea",
+    "food_category": "Soybeans",
+    "consumption": 8.350000000000001,
+    "co2_emmission": 3.7600000000000002
+  },
+  {
+    "country": "South Korea",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 4.88,
+    "co2_emmission": 8.639999999999999
+  },
+  {
+    "country": "Poland",
+    "food_category": "Pork",
+    "consumption": 46.190000000000005,
+    "co2_emmission": 163.49
+  },
+  {
+    "country": "Poland",
+    "food_category": "Poultry",
+    "consumption": 27.41,
+    "co2_emmission": 29.439999999999998
+  },
+  {
+    "country": "Poland",
+    "food_category": "Beef",
+    "consumption": 2.32,
+    "co2_emmission": 71.59
+  },
+  {
+    "country": "Poland",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.02,
+    "co2_emmission": 0.7
+  },
+  {
+    "country": "Poland",
+    "food_category": "Fish",
+    "consumption": 10.49,
+    "co2_emmission": 16.75
+  },
+  {
+    "country": "Poland",
+    "food_category": "Eggs",
+    "consumption": 7.53,
+    "co2_emmission": 6.92
+  },
+  {
+    "country": "Poland",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 205.39000000000001,
+    "co2_emmission": 292.56
+  },
+  {
+    "country": "Poland",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 108.83,
+    "co2_emmission": 20.75
+  },
+  {
+    "country": "Poland",
+    "food_category": "Rice",
+    "consumption": 0.9500000000000001,
+    "co2_emmission": 1.22
+  },
+  {
+    "country": "Poland",
+    "food_category": "Soybeans",
+    "consumption": 0.06,
+    "co2_emmission": 0.03
+  },
+  {
+    "country": "Poland",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 2.23,
+    "co2_emmission": 3.9499999999999997
+  },
+  {
+    "country": "Saudi Arabia",
+    "food_category": "Pork",
+    "consumption": 0,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Saudi Arabia",
+    "food_category": "Poultry",
+    "consumption": 49.05,
+    "co2_emmission": 52.690000000000005
+  },
+  {
+    "country": "Saudi Arabia",
+    "food_category": "Beef",
+    "consumption": 6.45,
+    "co2_emmission": 199.03
+  },
+  {
+    "country": "Saudi Arabia",
+    "food_category": "Lamb & Goat",
+    "consumption": 6.54,
+    "co2_emmission": 229.03
+  },
+  {
+    "country": "Saudi Arabia",
+    "food_category": "Fish",
+    "consumption": 11.99,
+    "co2_emmission": 19.14
+  },
+  {
+    "country": "Saudi Arabia",
+    "food_category": "Eggs",
+    "consumption": 5.37,
+    "co2_emmission": 4.930000000000001
+  },
+  {
+    "country": "Saudi Arabia",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 83.64999999999999,
+    "co2_emmission": 119.14999999999999
+  },
+  {
+    "country": "Saudi Arabia",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 89.47,
+    "co2_emmission": 17.06
+  },
+  {
+    "country": "Saudi Arabia",
+    "food_category": "Rice",
+    "consumption": 36.02,
+    "co2_emmission": 46.09
+  },
+  {
+    "country": "Saudi Arabia",
+    "food_category": "Soybeans",
+    "consumption": 0.05,
+    "co2_emmission": 0.02
+  },
+  {
+    "country": "Saudi Arabia",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 3.23,
+    "co2_emmission": 5.72
+  },
+  {
+    "country": "Botswana",
+    "food_category": "Pork",
+    "consumption": 0.74,
+    "co2_emmission": 2.62
+  },
+  {
+    "country": "Botswana",
+    "food_category": "Poultry",
+    "consumption": 5.33,
+    "co2_emmission": 5.73
+  },
+  {
+    "country": "Botswana",
+    "food_category": "Beef",
+    "consumption": 7.85,
+    "co2_emmission": 242.23
+  },
+  {
+    "country": "Botswana",
+    "food_category": "Lamb & Goat",
+    "consumption": 3.7600000000000002,
+    "co2_emmission": 131.67
+  },
+  {
+    "country": "Botswana",
+    "food_category": "Fish",
+    "consumption": 3.98,
+    "co2_emmission": 6.35
+  },
+  {
+    "country": "Botswana",
+    "food_category": "Eggs",
+    "consumption": 1.95,
+    "co2_emmission": 1.79
+  },
+  {
+    "country": "Botswana",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 117.74000000000001,
+    "co2_emmission": 167.70999999999998
+  },
+  {
+    "country": "Botswana",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 38.2,
+    "co2_emmission": 7.28
+  },
+  {
+    "country": "Botswana",
+    "food_category": "Rice",
+    "consumption": 7.06,
+    "co2_emmission": 9.03
+  },
+  {
+    "country": "Botswana",
+    "food_category": "Soybeans",
+    "consumption": 1.1600000000000001,
+    "co2_emmission": 0.52
+  },
+  {
+    "country": "Botswana",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 1.08,
+    "co2_emmission": 1.91
+  },
+  {
+    "country": "Macedonia",
+    "food_category": "Pork",
+    "consumption": 10.350000000000001,
+    "co2_emmission": 36.63
+  },
+  {
+    "country": "Macedonia",
+    "food_category": "Poultry",
+    "consumption": 18.77,
+    "co2_emmission": 20.16
+  },
+  {
+    "country": "Macedonia",
+    "food_category": "Beef",
+    "consumption": 7.6899999999999995,
+    "co2_emmission": 237.3
+  },
+  {
+    "country": "Macedonia",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.9400000000000001,
+    "co2_emmission": 32.92
+  },
+  {
+    "country": "Macedonia",
+    "food_category": "Fish",
+    "consumption": 5.470000000000001,
+    "co2_emmission": 8.729999999999999
+  },
+  {
+    "country": "Macedonia",
+    "food_category": "Eggs",
+    "consumption": 6.38,
+    "co2_emmission": 5.859999999999999
+  },
+  {
+    "country": "Macedonia",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 157.93,
+    "co2_emmission": 224.96
+  },
+  {
+    "country": "Macedonia",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 104.8,
+    "co2_emmission": 19.99
+  },
+  {
+    "country": "Macedonia",
+    "food_category": "Rice",
+    "consumption": 2.8099999999999996,
+    "co2_emmission": 3.6
+  },
+  {
+    "country": "Macedonia",
+    "food_category": "Soybeans",
+    "consumption": 0.46,
+    "co2_emmission": 0.21000000000000002
+  },
+  {
+    "country": "Macedonia",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 5.87,
+    "co2_emmission": 10.39
+  },
+  {
+    "country": "Hungary",
+    "food_category": "Pork",
+    "consumption": 34.93,
+    "co2_emmission": 123.63
+  },
+  {
+    "country": "Hungary",
+    "food_category": "Poultry",
+    "consumption": 23.779999999999998,
+    "co2_emmission": 25.54
+  },
+  {
+    "country": "Hungary",
+    "food_category": "Beef",
+    "consumption": 4.96,
+    "co2_emmission": 153.06
+  },
+  {
+    "country": "Hungary",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.11,
+    "co2_emmission": 3.8499999999999996
+  },
+  {
+    "country": "Hungary",
+    "food_category": "Fish",
+    "consumption": 4.930000000000001,
+    "co2_emmission": 7.87
+  },
+  {
+    "country": "Hungary",
+    "food_category": "Eggs",
+    "consumption": 12.450000000000001,
+    "co2_emmission": 11.44
+  },
+  {
+    "country": "Hungary",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 159.05,
+    "co2_emmission": 226.55
+  },
+  {
+    "country": "Hungary",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 109.98,
+    "co2_emmission": 20.97
+  },
+  {
+    "country": "Hungary",
+    "food_category": "Rice",
+    "consumption": 2.15,
+    "co2_emmission": 2.75
+  },
+  {
+    "country": "Hungary",
+    "food_category": "Soybeans",
+    "consumption": 0.01,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Hungary",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 0.64,
+    "co2_emmission": 1.1300000000000001
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "food_category": "Pork",
+    "consumption": 8.92,
+    "co2_emmission": 31.57
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "food_category": "Poultry",
+    "consumption": 58.27,
+    "co2_emmission": 62.59
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "food_category": "Beef",
+    "consumption": 6.13,
+    "co2_emmission": 189.16
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "food_category": "Lamb & Goat",
+    "consumption": 2.79,
+    "co2_emmission": 97.71000000000001
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "food_category": "Fish",
+    "consumption": 20.54,
+    "co2_emmission": 32.8
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "food_category": "Eggs",
+    "consumption": 4.2,
+    "co2_emmission": 3.86
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 103.8,
+    "co2_emmission": 147.85000000000002
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 90.16999999999999,
+    "co2_emmission": 17.2
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "food_category": "Rice",
+    "consumption": 16.38,
+    "co2_emmission": 20.959999999999997
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "food_category": "Soybeans",
+    "consumption": 0.04,
+    "co2_emmission": 0.02
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 3.7800000000000002,
+    "co2_emmission": 6.6899999999999995
+  },
+  {
+    "country": "Tunisia",
+    "food_category": "Pork",
+    "consumption": 0,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Tunisia",
+    "food_category": "Poultry",
+    "consumption": 18.5,
+    "co2_emmission": 19.87
+  },
+  {
+    "country": "Tunisia",
+    "food_category": "Beef",
+    "consumption": 5.53,
+    "co2_emmission": 170.64
+  },
+  {
+    "country": "Tunisia",
+    "food_category": "Lamb & Goat",
+    "consumption": 5.34,
+    "co2_emmission": 187.01
+  },
+  {
+    "country": "Tunisia",
+    "food_category": "Fish",
+    "consumption": 12.629999999999999,
+    "co2_emmission": 20.17
+  },
+  {
+    "country": "Tunisia",
+    "food_category": "Eggs",
+    "consumption": 7.67,
+    "co2_emmission": 7.05
+  },
+  {
+    "country": "Tunisia",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 114.47,
+    "co2_emmission": 163.05
+  },
+  {
+    "country": "Tunisia",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 197.5,
+    "co2_emmission": 37.660000000000004
+  },
+  {
+    "country": "Tunisia",
+    "food_category": "Rice",
+    "consumption": 1.07,
+    "co2_emmission": 1.37
+  },
+  {
+    "country": "Tunisia",
+    "food_category": "Soybeans",
+    "consumption": 1.8800000000000001,
+    "co2_emmission": 0.8500000000000001
+  },
+  {
+    "country": "Tunisia",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 6.34,
+    "co2_emmission": 11.219999999999999
+  },
+  {
+    "country": "Egypt",
+    "food_category": "Pork",
+    "consumption": 0.02,
+    "co2_emmission": 0.07
+  },
+  {
+    "country": "Egypt",
+    "food_category": "Poultry",
+    "consumption": 14.43,
+    "co2_emmission": 15.5
+  },
+  {
+    "country": "Egypt",
+    "food_category": "Beef",
+    "consumption": 12.88,
+    "co2_emmission": 397.45
+  },
+  {
+    "country": "Egypt",
+    "food_category": "Lamb & Goat",
+    "consumption": 1.58,
+    "co2_emmission": 55.33
+  },
+  {
+    "country": "Egypt",
+    "food_category": "Fish",
+    "consumption": 21.459999999999997,
+    "co2_emmission": 34.260000000000005
+  },
+  {
+    "country": "Egypt",
+    "food_category": "Eggs",
+    "consumption": 4.59,
+    "co2_emmission": 4.22
+  },
+  {
+    "country": "Egypt",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 59.46,
+    "co2_emmission": 84.69
+  },
+  {
+    "country": "Egypt",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 146.83,
+    "co2_emmission": 28
+  },
+  {
+    "country": "Egypt",
+    "food_category": "Rice",
+    "consumption": 39.77,
+    "co2_emmission": 50.89
+  },
+  {
+    "country": "Egypt",
+    "food_category": "Soybeans",
+    "consumption": 0.64,
+    "co2_emmission": 0.29000000000000004
+  },
+  {
+    "country": "Egypt",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 1.82,
+    "co2_emmission": 3.22
+  },
+  {
+    "country": "Mauritius",
+    "food_category": "Pork",
+    "consumption": 4.08,
+    "co2_emmission": 14.44
+  },
+  {
+    "country": "Mauritius",
+    "food_category": "Poultry",
+    "consumption": 38.51,
+    "co2_emmission": 41.37
+  },
+  {
+    "country": "Mauritius",
+    "food_category": "Beef",
+    "consumption": 5.99,
+    "co2_emmission": 184.84
+  },
+  {
+    "country": "Mauritius",
+    "food_category": "Lamb & Goat",
+    "consumption": 4.08,
+    "co2_emmission": 142.88000000000002
+  },
+  {
+    "country": "Mauritius",
+    "food_category": "Fish",
+    "consumption": 19.66,
+    "co2_emmission": 31.39
+  },
+  {
+    "country": "Mauritius",
+    "food_category": "Eggs",
+    "consumption": 6.319999999999999,
+    "co2_emmission": 5.81
+  },
+  {
+    "country": "Mauritius",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 117.27,
+    "co2_emmission": 167.04
+  },
+  {
+    "country": "Mauritius",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 114.02,
+    "co2_emmission": 21.74
+  },
+  {
+    "country": "Mauritius",
+    "food_category": "Rice",
+    "consumption": 45.56,
+    "co2_emmission": 58.3
+  },
+  {
+    "country": "Mauritius",
+    "food_category": "Soybeans",
+    "consumption": 0.3,
+    "co2_emmission": 0.14
+  },
+  {
+    "country": "Mauritius",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 2.3299999999999996,
+    "co2_emmission": 4.119999999999999
+  },
+  {
+    "country": "Bulgaria",
+    "food_category": "Pork",
+    "consumption": 26.259999999999998,
+    "co2_emmission": 92.95
+  },
+  {
+    "country": "Bulgaria",
+    "food_category": "Poultry",
+    "consumption": 20.68,
+    "co2_emmission": 22.21
+  },
+  {
+    "country": "Bulgaria",
+    "food_category": "Beef",
+    "consumption": 3.84,
+    "co2_emmission": 118.49000000000001
+  },
+  {
+    "country": "Bulgaria",
+    "food_category": "Lamb & Goat",
+    "consumption": 1.6300000000000001,
+    "co2_emmission": 57.08
+  },
+  {
+    "country": "Bulgaria",
+    "food_category": "Fish",
+    "consumption": 6.24,
+    "co2_emmission": 9.96
+  },
+  {
+    "country": "Bulgaria",
+    "food_category": "Eggs",
+    "consumption": 8.360000000000001,
+    "co2_emmission": 7.68
+  },
+  {
+    "country": "Bulgaria",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 155.70999999999998,
+    "co2_emmission": 221.79
+  },
+  {
+    "country": "Bulgaria",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 121.16999999999999,
+    "co2_emmission": 23.110000000000003
+  },
+  {
+    "country": "Bulgaria",
+    "food_category": "Rice",
+    "consumption": 2.24,
+    "co2_emmission": 2.8699999999999997
+  },
+  {
+    "country": "Bulgaria",
+    "food_category": "Soybeans",
+    "consumption": 0.04,
+    "co2_emmission": 0.02
+  },
+  {
+    "country": "Bulgaria",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 2.2600000000000002,
+    "co2_emmission": 4
+  },
+  {
+    "country": "Morocco",
+    "food_category": "Pork",
+    "consumption": 0.01,
+    "co2_emmission": 0.04
+  },
+  {
+    "country": "Morocco",
+    "food_category": "Poultry",
+    "consumption": 20.77,
+    "co2_emmission": 22.310000000000002
+  },
+  {
+    "country": "Morocco",
+    "food_category": "Beef",
+    "consumption": 8.04,
+    "co2_emmission": 248.1
+  },
+  {
+    "country": "Morocco",
+    "food_category": "Lamb & Goat",
+    "consumption": 4.359999999999999,
+    "co2_emmission": 152.69
+  },
+  {
+    "country": "Morocco",
+    "food_category": "Fish",
+    "consumption": 17.439999999999998,
+    "co2_emmission": 27.85
+  },
+  {
+    "country": "Morocco",
+    "food_category": "Eggs",
+    "consumption": 6.68,
+    "co2_emmission": 6.14
+  },
+  {
+    "country": "Morocco",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 54.68,
+    "co2_emmission": 77.89
+  },
+  {
+    "country": "Morocco",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 179.7,
+    "co2_emmission": 34.27
+  },
+  {
+    "country": "Morocco",
+    "food_category": "Rice",
+    "consumption": 1.1,
+    "co2_emmission": 1.41
+  },
+  {
+    "country": "Morocco",
+    "food_category": "Soybeans",
+    "consumption": 0,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Morocco",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 3.23,
+    "co2_emmission": 5.72
+  },
+  {
+    "country": "Slovakia",
+    "food_category": "Pork",
+    "consumption": 31.779999999999998,
+    "co2_emmission": 112.49000000000001
+  },
+  {
+    "country": "Slovakia",
+    "food_category": "Poultry",
+    "consumption": 15.129999999999999,
+    "co2_emmission": 16.25
+  },
+  {
+    "country": "Slovakia",
+    "food_category": "Beef",
+    "consumption": 5.1899999999999995,
+    "co2_emmission": 160.15
+  },
+  {
+    "country": "Slovakia",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.16,
+    "co2_emmission": 5.6
+  },
+  {
+    "country": "Slovakia",
+    "food_category": "Fish",
+    "consumption": 8.39,
+    "co2_emmission": 13.4
+  },
+  {
+    "country": "Slovakia",
+    "food_category": "Eggs",
+    "consumption": 16.05,
+    "co2_emmission": 14.739999999999998
+  },
+  {
+    "country": "Slovakia",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 143.14,
+    "co2_emmission": 203.89000000000001
+  },
+  {
+    "country": "Slovakia",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 123.61999999999999,
+    "co2_emmission": 23.57
+  },
+  {
+    "country": "Slovakia",
+    "food_category": "Rice",
+    "consumption": 2.88,
+    "co2_emmission": 3.69
+  },
+  {
+    "country": "Slovakia",
+    "food_category": "Soybeans",
+    "consumption": 0.02,
+    "co2_emmission": 0.01
+  },
+  {
+    "country": "Slovakia",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 3.7,
+    "co2_emmission": 6.55
+  },
+  {
+    "country": "Niger",
+    "food_category": "Pork",
+    "consumption": 0.09,
+    "co2_emmission": 0.32
+  },
+  {
+    "country": "Niger",
+    "food_category": "Poultry",
+    "consumption": 1.08,
+    "co2_emmission": 1.1600000000000001
+  },
+  {
+    "country": "Niger",
+    "food_category": "Beef",
+    "consumption": 8.97,
+    "co2_emmission": 276.8
+  },
+  {
+    "country": "Niger",
+    "food_category": "Lamb & Goat",
+    "consumption": 4.17,
+    "co2_emmission": 146.03
+  },
+  {
+    "country": "Niger",
+    "food_category": "Fish",
+    "consumption": 2.7,
+    "co2_emmission": 4.31
+  },
+  {
+    "country": "Niger",
+    "food_category": "Eggs",
+    "consumption": 0.3,
+    "co2_emmission": 0.28
+  },
+  {
+    "country": "Niger",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 58.92,
+    "co2_emmission": 83.93
+  },
+  {
+    "country": "Niger",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 4.79,
+    "co2_emmission": 0.91
+  },
+  {
+    "country": "Niger",
+    "food_category": "Rice",
+    "consumption": 13.17,
+    "co2_emmission": 16.85
+  },
+  {
+    "country": "Niger",
+    "food_category": "Soybeans",
+    "consumption": 0,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Niger",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 6.95,
+    "co2_emmission": 12.3
+  },
+  {
+    "country": "Kenya",
+    "food_category": "Pork",
+    "consumption": 0.29000000000000004,
+    "co2_emmission": 1.03
+  },
+  {
+    "country": "Kenya",
+    "food_category": "Poultry",
+    "consumption": 0.47000000000000003,
+    "co2_emmission": 0.5
+  },
+  {
+    "country": "Kenya",
+    "food_category": "Beef",
+    "consumption": 9.54,
+    "co2_emmission": 294.38
+  },
+  {
+    "country": "Kenya",
+    "food_category": "Lamb & Goat",
+    "consumption": 1.86,
+    "co2_emmission": 65.14
+  },
+  {
+    "country": "Kenya",
+    "food_category": "Fish",
+    "consumption": 4.2700000000000005,
+    "co2_emmission": 6.819999999999999
+  },
+  {
+    "country": "Kenya",
+    "food_category": "Eggs",
+    "consumption": 1.84,
+    "co2_emmission": 1.6900000000000002
+  },
+  {
+    "country": "Kenya",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 94.86,
+    "co2_emmission": 135.12
+  },
+  {
+    "country": "Kenya",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 34.65,
+    "co2_emmission": 6.609999999999999
+  },
+  {
+    "country": "Kenya",
+    "food_category": "Rice",
+    "consumption": 12.94,
+    "co2_emmission": 16.56
+  },
+  {
+    "country": "Kenya",
+    "food_category": "Soybeans",
+    "consumption": 0.2,
+    "co2_emmission": 0.09
+  },
+  {
+    "country": "Kenya",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 1.6400000000000001,
+    "co2_emmission": 2.9
+  },
+  {
+    "country": "Jordan",
+    "food_category": "Pork",
+    "consumption": 0.02,
+    "co2_emmission": 0.07
+  },
+  {
+    "country": "Jordan",
+    "food_category": "Poultry",
+    "consumption": 33.39,
+    "co2_emmission": 35.87
+  },
+  {
+    "country": "Jordan",
+    "food_category": "Beef",
+    "consumption": 5.609999999999999,
+    "co2_emmission": 173.10999999999999
+  },
+  {
+    "country": "Jordan",
+    "food_category": "Lamb & Goat",
+    "consumption": 5.68,
+    "co2_emmission": 198.91
+  },
+  {
+    "country": "Jordan",
+    "food_category": "Fish",
+    "consumption": 5.13,
+    "co2_emmission": 8.19
+  },
+  {
+    "country": "Jordan",
+    "food_category": "Eggs",
+    "consumption": 3.92,
+    "co2_emmission": 3.6
+  },
+  {
+    "country": "Jordan",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 77.67999999999999,
+    "co2_emmission": 110.64999999999999
+  },
+  {
+    "country": "Jordan",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 136.73999999999998,
+    "co2_emmission": 26.08
+  },
+  {
+    "country": "Jordan",
+    "food_category": "Rice",
+    "consumption": 19.67,
+    "co2_emmission": 25.17
+  },
+  {
+    "country": "Jordan",
+    "food_category": "Soybeans",
+    "consumption": 0.02,
+    "co2_emmission": 0.01
+  },
+  {
+    "country": "Jordan",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 3.56,
+    "co2_emmission": 6.3
+  },
+  {
+    "country": "Japan",
+    "food_category": "Pork",
+    "consumption": 20.62,
+    "co2_emmission": 72.98
+  },
+  {
+    "country": "Japan",
+    "food_category": "Poultry",
+    "consumption": 19.419999999999998,
+    "co2_emmission": 20.86
+  },
+  {
+    "country": "Japan",
+    "food_category": "Beef",
+    "consumption": 9.15,
+    "co2_emmission": 282.35
+  },
+  {
+    "country": "Japan",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.14,
+    "co2_emmission": 4.9
+  },
+  {
+    "country": "Japan",
+    "food_category": "Fish",
+    "consumption": 31.1,
+    "co2_emmission": 49.660000000000004
+  },
+  {
+    "country": "Japan",
+    "food_category": "Eggs",
+    "consumption": 19.150000000000002,
+    "co2_emmission": 17.59
+  },
+  {
+    "country": "Japan",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 72.06,
+    "co2_emmission": 102.64
+  },
+  {
+    "country": "Japan",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 45.04,
+    "co2_emmission": 8.59
+  },
+  {
+    "country": "Japan",
+    "food_category": "Rice",
+    "consumption": 59.849999999999994,
+    "co2_emmission": 76.59
+  },
+  {
+    "country": "Japan",
+    "food_category": "Soybeans",
+    "consumption": 7.34,
+    "co2_emmission": 3.3
+  },
+  {
+    "country": "Japan",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 2.59,
+    "co2_emmission": 4.58
+  },
+  {
+    "country": "Georgia",
+    "food_category": "Pork",
+    "consumption": 8.93,
+    "co2_emmission": 31.610000000000003
+  },
+  {
+    "country": "Georgia",
+    "food_category": "Poultry",
+    "consumption": 12.28,
+    "co2_emmission": 13.19
+  },
+  {
+    "country": "Georgia",
+    "food_category": "Beef",
+    "consumption": 6.04,
+    "co2_emmission": 186.38000000000002
+  },
+  {
+    "country": "Georgia",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.63,
+    "co2_emmission": 22.06
+  },
+  {
+    "country": "Georgia",
+    "food_category": "Fish",
+    "consumption": 10.42,
+    "co2_emmission": 16.64
+  },
+  {
+    "country": "Georgia",
+    "food_category": "Eggs",
+    "consumption": 6.119999999999999,
+    "co2_emmission": 5.619999999999999
+  },
+  {
+    "country": "Georgia",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 149.26,
+    "co2_emmission": 212.60999999999999
+  },
+  {
+    "country": "Georgia",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 163.43,
+    "co2_emmission": 31.17
+  },
+  {
+    "country": "Georgia",
+    "food_category": "Rice",
+    "consumption": 2.64,
+    "co2_emmission": 3.38
+  },
+  {
+    "country": "Georgia",
+    "food_category": "Soybeans",
+    "consumption": 0,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Georgia",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 2.4699999999999998,
+    "co2_emmission": 4.37
+  },
+  {
+    "country": "Grenada",
+    "food_category": "Pork",
+    "consumption": 11.52,
+    "co2_emmission": 40.78
+  },
+  {
+    "country": "Grenada",
+    "food_category": "Poultry",
+    "consumption": 43.51,
+    "co2_emmission": 46.74
+  },
+  {
+    "country": "Grenada",
+    "food_category": "Beef",
+    "consumption": 3.46,
+    "co2_emmission": 106.77
+  },
+  {
+    "country": "Grenada",
+    "food_category": "Lamb & Goat",
+    "consumption": 1.25,
+    "co2_emmission": 43.77
+  },
+  {
+    "country": "Grenada",
+    "food_category": "Fish",
+    "consumption": 27.95,
+    "co2_emmission": 44.63
+  },
+  {
+    "country": "Grenada",
+    "food_category": "Eggs",
+    "consumption": 10.34,
+    "co2_emmission": 9.5
+  },
+  {
+    "country": "Grenada",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 86.88,
+    "co2_emmission": 123.75
+  },
+  {
+    "country": "Grenada",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 59.59,
+    "co2_emmission": 11.360000000000001
+  },
+  {
+    "country": "Grenada",
+    "food_category": "Rice",
+    "consumption": 9.56,
+    "co2_emmission": 12.229999999999999
+  },
+  {
+    "country": "Grenada",
+    "food_category": "Soybeans",
+    "consumption": 0.01,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Grenada",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 0.18,
+    "co2_emmission": 0.32
+  },
+  {
+    "country": "El Salvador",
+    "food_category": "Pork",
+    "consumption": 3.23,
+    "co2_emmission": 11.43
+  },
+  {
+    "country": "El Salvador",
+    "food_category": "Poultry",
+    "consumption": 19.84,
+    "co2_emmission": 21.310000000000002
+  },
+  {
+    "country": "El Salvador",
+    "food_category": "Beef",
+    "consumption": 5.95,
+    "co2_emmission": 183.6
+  },
+  {
+    "country": "El Salvador",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.02,
+    "co2_emmission": 0.7
+  },
+  {
+    "country": "El Salvador",
+    "food_category": "Fish",
+    "consumption": 6.25,
+    "co2_emmission": 9.98
+  },
+  {
+    "country": "El Salvador",
+    "food_category": "Eggs",
+    "consumption": 9.51,
+    "co2_emmission": 8.739999999999998
+  },
+  {
+    "country": "El Salvador",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 124.34,
+    "co2_emmission": 177.10999999999999
+  },
+  {
+    "country": "El Salvador",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 28.19,
+    "co2_emmission": 5.38
+  },
+  {
+    "country": "El Salvador",
+    "food_category": "Rice",
+    "consumption": 10.53,
+    "co2_emmission": 13.48
+  },
+  {
+    "country": "El Salvador",
+    "food_category": "Soybeans",
+    "consumption": 0.8,
+    "co2_emmission": 0.36
+  },
+  {
+    "country": "El Salvador",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 1.1,
+    "co2_emmission": 1.95
+  },
+  {
+    "country": "Cuba",
+    "food_category": "Pork",
+    "consumption": 19.82,
+    "co2_emmission": 70.14999999999999
+  },
+  {
+    "country": "Cuba",
+    "food_category": "Poultry",
+    "consumption": 20.150000000000002,
+    "co2_emmission": 21.650000000000002
+  },
+  {
+    "country": "Cuba",
+    "food_category": "Beef",
+    "consumption": 6.39,
+    "co2_emmission": 197.18
+  },
+  {
+    "country": "Cuba",
+    "food_category": "Lamb & Goat",
+    "consumption": 1.24,
+    "co2_emmission": 43.42
+  },
+  {
+    "country": "Cuba",
+    "food_category": "Fish",
+    "consumption": 4.76,
+    "co2_emmission": 7.6
+  },
+  {
+    "country": "Cuba",
+    "food_category": "Eggs",
+    "consumption": 9.82,
+    "co2_emmission": 9.02
+  },
+  {
+    "country": "Cuba",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 99.94000000000001,
+    "co2_emmission": 142.35000000000002
+  },
+  {
+    "country": "Cuba",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 54.620000000000005,
+    "co2_emmission": 10.42
+  },
+  {
+    "country": "Cuba",
+    "food_category": "Rice",
+    "consumption": 67.7,
+    "co2_emmission": 86.64
+  },
+  {
+    "country": "Cuba",
+    "food_category": "Soybeans",
+    "consumption": 6.34,
+    "co2_emmission": 2.8499999999999996
+  },
+  {
+    "country": "Cuba",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 0.23,
+    "co2_emmission": 0.41000000000000003
+  },
+  {
+    "country": "China",
+    "food_category": "Pork",
+    "consumption": 38.43,
+    "co2_emmission": 136.02
+  },
+  {
+    "country": "China",
+    "food_category": "Poultry",
+    "consumption": 13.2,
+    "co2_emmission": 14.18
+  },
+  {
+    "country": "China",
+    "food_category": "Beef",
+    "consumption": 5.119999999999999,
+    "co2_emmission": 157.99
+  },
+  {
+    "country": "China",
+    "food_category": "Lamb & Goat",
+    "consumption": 3.13,
+    "co2_emmission": 109.61
+  },
+  {
+    "country": "China",
+    "food_category": "Fish",
+    "consumption": 21.01,
+    "co2_emmission": 33.55
+  },
+  {
+    "country": "China",
+    "food_category": "Eggs",
+    "consumption": 18.759999999999998,
+    "co2_emmission": 17.23
+  },
+  {
+    "country": "China",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 32.660000000000004,
+    "co2_emmission": 46.52
+  },
+  {
+    "country": "China",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 63.36,
+    "co2_emmission": 12.08
+  },
+  {
+    "country": "China",
+    "food_category": "Rice",
+    "consumption": 78.17999999999999,
+    "co2_emmission": 100.05
+  },
+  {
+    "country": "China",
+    "food_category": "Soybeans",
+    "consumption": 3.66,
+    "co2_emmission": 1.6500000000000001
+  },
+  {
+    "country": "China",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 6.39,
+    "co2_emmission": 11.31
+  },
+  {
+    "country": "Honduras",
+    "food_category": "Pork",
+    "consumption": 6.48,
+    "co2_emmission": 22.939999999999998
+  },
+  {
+    "country": "Honduras",
+    "food_category": "Poultry",
+    "consumption": 20.29,
+    "co2_emmission": 21.8
+  },
+  {
+    "country": "Honduras",
+    "food_category": "Beef",
+    "consumption": 7.1899999999999995,
+    "co2_emmission": 221.87
+  },
+  {
+    "country": "Honduras",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.04,
+    "co2_emmission": 1.4
+  },
+  {
+    "country": "Honduras",
+    "food_category": "Fish",
+    "consumption": 2.7,
+    "co2_emmission": 4.31
+  },
+  {
+    "country": "Honduras",
+    "food_category": "Eggs",
+    "consumption": 5.1899999999999995,
+    "co2_emmission": 4.7700000000000005
+  },
+  {
+    "country": "Honduras",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 91.33,
+    "co2_emmission": 130.09
+  },
+  {
+    "country": "Honduras",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 37.36,
+    "co2_emmission": 7.119999999999999
+  },
+  {
+    "country": "Honduras",
+    "food_category": "Rice",
+    "consumption": 14.42,
+    "co2_emmission": 18.45
+  },
+  {
+    "country": "Honduras",
+    "food_category": "Soybeans",
+    "consumption": 0.01,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Honduras",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 0.75,
+    "co2_emmission": 1.33
+  },
+  {
+    "country": "Taiwan. ROC",
+    "food_category": "Pork",
+    "consumption": 39.37,
+    "co2_emmission": 139.35000000000002
+  },
+  {
+    "country": "Taiwan. ROC",
+    "food_category": "Poultry",
+    "consumption": 32.13,
+    "co2_emmission": 34.51
+  },
+  {
+    "country": "Taiwan. ROC",
+    "food_category": "Beef",
+    "consumption": 5.21,
+    "co2_emmission": 160.76999999999998
+  },
+  {
+    "country": "Taiwan. ROC",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.92,
+    "co2_emmission": 32.220000000000006
+  },
+  {
+    "country": "Taiwan. ROC",
+    "food_category": "Fish",
+    "consumption": 18.29,
+    "co2_emmission": 29.2
+  },
+  {
+    "country": "Taiwan. ROC",
+    "food_category": "Eggs",
+    "consumption": 13.08,
+    "co2_emmission": 12.02
+  },
+  {
+    "country": "Taiwan. ROC",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 41.720000000000006,
+    "co2_emmission": 59.43
+  },
+  {
+    "country": "Taiwan. ROC",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 50.92,
+    "co2_emmission": 9.709999999999999
+  },
+  {
+    "country": "Taiwan. ROC",
+    "food_category": "Rice",
+    "consumption": 45.849999999999994,
+    "co2_emmission": 58.67
+  },
+  {
+    "country": "Taiwan. ROC",
+    "food_category": "Soybeans",
+    "consumption": 16.95,
+    "co2_emmission": 7.63
+  },
+  {
+    "country": "Taiwan. ROC",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 9.06,
+    "co2_emmission": 16.04
+  },
+  {
+    "country": "Angola",
+    "food_category": "Pork",
+    "consumption": 8.89,
+    "co2_emmission": 31.47
+  },
+  {
+    "country": "Angola",
+    "food_category": "Poultry",
+    "consumption": 17.330000000000002,
+    "co2_emmission": 18.62
+  },
+  {
+    "country": "Angola",
+    "food_category": "Beef",
+    "consumption": 8.42,
+    "co2_emmission": 259.82
+  },
+  {
+    "country": "Angola",
+    "food_category": "Lamb & Goat",
+    "consumption": 1.08,
+    "co2_emmission": 37.82
+  },
+  {
+    "country": "Angola",
+    "food_category": "Fish",
+    "consumption": 15.239999999999998,
+    "co2_emmission": 24.330000000000002
+  },
+  {
+    "country": "Angola",
+    "food_category": "Eggs",
+    "consumption": 1.11,
+    "co2_emmission": 1.02
+  },
+  {
+    "country": "Angola",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 12.3,
+    "co2_emmission": 17.52
+  },
+  {
+    "country": "Angola",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 40.720000000000006,
+    "co2_emmission": 7.7700000000000005
+  },
+  {
+    "country": "Angola",
+    "food_category": "Rice",
+    "consumption": 8.12,
+    "co2_emmission": 10.39
+  },
+  {
+    "country": "Angola",
+    "food_category": "Soybeans",
+    "consumption": 0.52,
+    "co2_emmission": 0.23
+  },
+  {
+    "country": "Angola",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 2.2600000000000002,
+    "co2_emmission": 4
+  },
+  {
+    "country": "Jamaica",
+    "food_category": "Pork",
+    "consumption": 3.9899999999999998,
+    "co2_emmission": 14.12
+  },
+  {
+    "country": "Jamaica",
+    "food_category": "Poultry",
+    "consumption": 52.51,
+    "co2_emmission": 56.41
+  },
+  {
+    "country": "Jamaica",
+    "food_category": "Beef",
+    "consumption": 3.9699999999999998,
+    "co2_emmission": 122.51
+  },
+  {
+    "country": "Jamaica",
+    "food_category": "Lamb & Goat",
+    "consumption": 1.26,
+    "co2_emmission": 44.13
+  },
+  {
+    "country": "Jamaica",
+    "food_category": "Fish",
+    "consumption": 21.95,
+    "co2_emmission": 35.05
+  },
+  {
+    "country": "Jamaica",
+    "food_category": "Eggs",
+    "consumption": 2.27,
+    "co2_emmission": 2.09
+  },
+  {
+    "country": "Jamaica",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 91.13,
+    "co2_emmission": 129.81
+  },
+  {
+    "country": "Jamaica",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 70.66999999999999,
+    "co2_emmission": 13.48
+  },
+  {
+    "country": "Jamaica",
+    "food_category": "Rice",
+    "consumption": 23.45,
+    "co2_emmission": 30.01
+  },
+  {
+    "country": "Jamaica",
+    "food_category": "Soybeans",
+    "consumption": 0,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Jamaica",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 1.82,
+    "co2_emmission": 3.22
+  },
+  {
+    "country": "Namibia",
+    "food_category": "Pork",
+    "consumption": 4.21,
+    "co2_emmission": 14.9
+  },
+  {
+    "country": "Namibia",
+    "food_category": "Poultry",
+    "consumption": 12.19,
+    "co2_emmission": 13.09
+  },
+  {
+    "country": "Namibia",
+    "food_category": "Beef",
+    "consumption": 3.75,
+    "co2_emmission": 115.72
+  },
+  {
+    "country": "Namibia",
+    "food_category": "Lamb & Goat",
+    "consumption": 2.27,
+    "co2_emmission": 79.5
+  },
+  {
+    "country": "Namibia",
+    "food_category": "Fish",
+    "consumption": 10.7,
+    "co2_emmission": 17.08
+  },
+  {
+    "country": "Namibia",
+    "food_category": "Eggs",
+    "consumption": 1.6300000000000001,
+    "co2_emmission": 1.5
+  },
+  {
+    "country": "Namibia",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 73.05,
+    "co2_emmission": 104.05
+  },
+  {
+    "country": "Namibia",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 36.260000000000005,
+    "co2_emmission": 6.91
+  },
+  {
+    "country": "Namibia",
+    "food_category": "Rice",
+    "consumption": 6.31,
+    "co2_emmission": 8.07
+  },
+  {
+    "country": "Namibia",
+    "food_category": "Soybeans",
+    "consumption": 0.07,
+    "co2_emmission": 0.03
+  },
+  {
+    "country": "Namibia",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 0.71,
+    "co2_emmission": 1.26
+  },
+  {
+    "country": "Belize",
+    "food_category": "Pork",
+    "consumption": 16.8,
+    "co2_emmission": 59.46
+  },
+  {
+    "country": "Belize",
+    "food_category": "Poultry",
+    "consumption": 28.310000000000002,
+    "co2_emmission": 30.41
+  },
+  {
+    "country": "Belize",
+    "food_category": "Beef",
+    "consumption": 4.859999999999999,
+    "co2_emmission": 149.97
+  },
+  {
+    "country": "Belize",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.14,
+    "co2_emmission": 4.9
+  },
+  {
+    "country": "Belize",
+    "food_category": "Fish",
+    "consumption": 7.57,
+    "co2_emmission": 12.09
+  },
+  {
+    "country": "Belize",
+    "food_category": "Eggs",
+    "consumption": 4.85,
+    "co2_emmission": 4.46
+  },
+  {
+    "country": "Belize",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 80.3,
+    "co2_emmission": 114.38
+  },
+  {
+    "country": "Belize",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 54.06,
+    "co2_emmission": 10.31
+  },
+  {
+    "country": "Belize",
+    "food_category": "Rice",
+    "consumption": 28.419999999999998,
+    "co2_emmission": 36.37
+  },
+  {
+    "country": "Belize",
+    "food_category": "Soybeans",
+    "consumption": 1.8800000000000001,
+    "co2_emmission": 0.8500000000000001
+  },
+  {
+    "country": "Belize",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 5.58,
+    "co2_emmission": 9.88
+  },
+  {
+    "country": "Malaysia",
+    "food_category": "Pork",
+    "consumption": 7.76,
+    "co2_emmission": 27.47
+  },
+  {
+    "country": "Malaysia",
+    "food_category": "Poultry",
+    "consumption": 41.01,
+    "co2_emmission": 44.05
+  },
+  {
+    "country": "Malaysia",
+    "food_category": "Beef",
+    "consumption": 6.52,
+    "co2_emmission": 201.19
+  },
+  {
+    "country": "Malaysia",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.9400000000000001,
+    "co2_emmission": 32.92
+  },
+  {
+    "country": "Malaysia",
+    "food_category": "Fish",
+    "consumption": 49.43,
+    "co2_emmission": 78.92
+  },
+  {
+    "country": "Malaysia",
+    "food_category": "Eggs",
+    "consumption": 16.57,
+    "co2_emmission": 15.219999999999999
+  },
+  {
+    "country": "Malaysia",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 25.279999999999998,
+    "co2_emmission": 36.01
+  },
+  {
+    "country": "Malaysia",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 51.04,
+    "co2_emmission": 9.729999999999999
+  },
+  {
+    "country": "Malaysia",
+    "food_category": "Rice",
+    "consumption": 81.25,
+    "co2_emmission": 103.98
+  },
+  {
+    "country": "Malaysia",
+    "food_category": "Soybeans",
+    "consumption": 0.04,
+    "co2_emmission": 0.02
+  },
+  {
+    "country": "Malaysia",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 2.9,
+    "co2_emmission": 5.13
+  },
+  {
+    "country": "Zimbabwe",
+    "food_category": "Pork",
+    "consumption": 2.65,
+    "co2_emmission": 9.38
+  },
+  {
+    "country": "Zimbabwe",
+    "food_category": "Poultry",
+    "consumption": 4.970000000000001,
+    "co2_emmission": 5.34
+  },
+  {
+    "country": "Zimbabwe",
+    "food_category": "Beef",
+    "consumption": 7.37,
+    "co2_emmission": 227.42000000000002
+  },
+  {
+    "country": "Zimbabwe",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.96,
+    "co2_emmission": 33.620000000000005
+  },
+  {
+    "country": "Zimbabwe",
+    "food_category": "Fish",
+    "consumption": 2.8,
+    "co2_emmission": 4.470000000000001
+  },
+  {
+    "country": "Zimbabwe",
+    "food_category": "Eggs",
+    "consumption": 1.75,
+    "co2_emmission": 1.61
+  },
+  {
+    "country": "Zimbabwe",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 31.9,
+    "co2_emmission": 45.44
+  },
+  {
+    "country": "Zimbabwe",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 31.310000000000002,
+    "co2_emmission": 5.970000000000001
+  },
+  {
+    "country": "Zimbabwe",
+    "food_category": "Rice",
+    "consumption": 10.09,
+    "co2_emmission": 12.91
+  },
+  {
+    "country": "Zimbabwe",
+    "food_category": "Soybeans",
+    "consumption": 0.54,
+    "co2_emmission": 0.24000000000000002
+  },
+  {
+    "country": "Zimbabwe",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 2.22,
+    "co2_emmission": 3.9299999999999997
+  },
+  {
+    "country": "Guatemala",
+    "food_category": "Pork",
+    "consumption": 4.85,
+    "co2_emmission": 17.17
+  },
+  {
+    "country": "Guatemala",
+    "food_category": "Poultry",
+    "consumption": 16.45,
+    "co2_emmission": 17.67
+  },
+  {
+    "country": "Guatemala",
+    "food_category": "Beef",
+    "consumption": 5.6,
+    "co2_emmission": 172.8
+  },
+  {
+    "country": "Guatemala",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.23,
+    "co2_emmission": 8.05
+  },
+  {
+    "country": "Guatemala",
+    "food_category": "Fish",
+    "consumption": 1.08,
+    "co2_emmission": 1.72
+  },
+  {
+    "country": "Guatemala",
+    "food_category": "Eggs",
+    "consumption": 14.61,
+    "co2_emmission": 13.42
+  },
+  {
+    "country": "Guatemala",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 46.6,
+    "co2_emmission": 66.38
+  },
+  {
+    "country": "Guatemala",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 35.9,
+    "co2_emmission": 6.85
+  },
+  {
+    "country": "Guatemala",
+    "food_category": "Rice",
+    "consumption": 5.659999999999999,
+    "co2_emmission": 7.24
+  },
+  {
+    "country": "Guatemala",
+    "food_category": "Soybeans",
+    "consumption": 0.32,
+    "co2_emmission": 0.14
+  },
+  {
+    "country": "Guatemala",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 2,
+    "co2_emmission": 3.54
+  },
+  {
+    "country": "Uganda",
+    "food_category": "Pork",
+    "consumption": 3.3699999999999997,
+    "co2_emmission": 11.93
+  },
+  {
+    "country": "Uganda",
+    "food_category": "Poultry",
+    "consumption": 1.51,
+    "co2_emmission": 1.62
+  },
+  {
+    "country": "Uganda",
+    "food_category": "Beef",
+    "consumption": 5.1499999999999995,
+    "co2_emmission": 158.92000000000002
+  },
+  {
+    "country": "Uganda",
+    "food_category": "Lamb & Goat",
+    "consumption": 1.25,
+    "co2_emmission": 43.77
+  },
+  {
+    "country": "Uganda",
+    "food_category": "Fish",
+    "consumption": 12.5,
+    "co2_emmission": 19.959999999999997
+  },
+  {
+    "country": "Uganda",
+    "food_category": "Eggs",
+    "consumption": 0.97,
+    "co2_emmission": 0.89
+  },
+  {
+    "country": "Uganda",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 37.27,
+    "co2_emmission": 53.09
+  },
+  {
+    "country": "Uganda",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 10.139999999999999,
+    "co2_emmission": 1.93
+  },
+  {
+    "country": "Uganda",
+    "food_category": "Rice",
+    "consumption": 4.64,
+    "co2_emmission": 5.94
+  },
+  {
+    "country": "Uganda",
+    "food_category": "Soybeans",
+    "consumption": 0.01,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Uganda",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 3.77,
+    "co2_emmission": 6.67
+  },
+  {
+    "country": "Nepal",
+    "food_category": "Pork",
+    "consumption": 0.6699999999999999,
+    "co2_emmission": 2.3699999999999997
+  },
+  {
+    "country": "Nepal",
+    "food_category": "Poultry",
+    "consumption": 1.56,
+    "co2_emmission": 1.6800000000000002
+  },
+  {
+    "country": "Nepal",
+    "food_category": "Beef",
+    "consumption": 7.89,
+    "co2_emmission": 243.47
+  },
+  {
+    "country": "Nepal",
+    "food_category": "Lamb & Goat",
+    "consumption": 2.1,
+    "co2_emmission": 73.54
+  },
+  {
+    "country": "Nepal",
+    "food_category": "Fish",
+    "consumption": 2.17,
+    "co2_emmission": 3.46
+  },
+  {
+    "country": "Nepal",
+    "food_category": "Eggs",
+    "consumption": 1.42,
+    "co2_emmission": 1.3
+  },
+  {
+    "country": "Nepal",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 52.1,
+    "co2_emmission": 74.21000000000001
+  },
+  {
+    "country": "Nepal",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 50.46,
+    "co2_emmission": 9.62
+  },
+  {
+    "country": "Nepal",
+    "food_category": "Rice",
+    "consumption": 87.75,
+    "co2_emmission": 112.29
+  },
+  {
+    "country": "Nepal",
+    "food_category": "Soybeans",
+    "consumption": 0.01,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Nepal",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 2.42,
+    "co2_emmission": 4.28
+  },
+  {
+    "country": "Iran",
+    "food_category": "Pork",
+    "consumption": 0,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Iran",
+    "food_category": "Poultry",
+    "consumption": 25.38,
+    "co2_emmission": 27.259999999999998
+  },
+  {
+    "country": "Iran",
+    "food_category": "Beef",
+    "consumption": 3.58,
+    "co2_emmission": 110.47
+  },
+  {
+    "country": "Iran",
+    "food_category": "Lamb & Goat",
+    "consumption": 3.69,
+    "co2_emmission": 129.22
+  },
+  {
+    "country": "Iran",
+    "food_category": "Fish",
+    "consumption": 9.8,
+    "co2_emmission": 15.65
+  },
+  {
+    "country": "Iran",
+    "food_category": "Eggs",
+    "consumption": 7.7,
+    "co2_emmission": 7.07
+  },
+  {
+    "country": "Iran",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 46.690000000000005,
+    "co2_emmission": 66.51
+  },
+  {
+    "country": "Iran",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 153.31,
+    "co2_emmission": 29.24
+  },
+  {
+    "country": "Iran",
+    "food_category": "Rice",
+    "consumption": 29.95,
+    "co2_emmission": 38.33
+  },
+  {
+    "country": "Iran",
+    "food_category": "Soybeans",
+    "consumption": 0,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Iran",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 12.16,
+    "co2_emmission": 21.52
+  },
+  {
+    "country": "Tanzania",
+    "food_category": "Pork",
+    "consumption": 0.32,
+    "co2_emmission": 1.1300000000000001
+  },
+  {
+    "country": "Tanzania",
+    "food_category": "Poultry",
+    "consumption": 1.84,
+    "co2_emmission": 1.98
+  },
+  {
+    "country": "Tanzania",
+    "food_category": "Beef",
+    "consumption": 6.09,
+    "co2_emmission": 187.92000000000002
+  },
+  {
+    "country": "Tanzania",
+    "food_category": "Lamb & Goat",
+    "consumption": 1.28,
+    "co2_emmission": 44.83
+  },
+  {
+    "country": "Tanzania",
+    "food_category": "Fish",
+    "consumption": 5.5,
+    "co2_emmission": 8.78
+  },
+  {
+    "country": "Tanzania",
+    "food_category": "Eggs",
+    "consumption": 0.58,
+    "co2_emmission": 0.53
+  },
+  {
+    "country": "Tanzania",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 40.290000000000006,
+    "co2_emmission": 57.39
+  },
+  {
+    "country": "Tanzania",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 15.94,
+    "co2_emmission": 3.04
+  },
+  {
+    "country": "Tanzania",
+    "food_category": "Rice",
+    "consumption": 21.01,
+    "co2_emmission": 26.89
+  },
+  {
+    "country": "Tanzania",
+    "food_category": "Soybeans",
+    "consumption": 0.04,
+    "co2_emmission": 0.02
+  },
+  {
+    "country": "Tanzania",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 5.94,
+    "co2_emmission": 10.51
+  },
+  {
+    "country": "Senegal",
+    "food_category": "Pork",
+    "consumption": 0.9400000000000001,
+    "co2_emmission": 3.3299999999999996
+  },
+  {
+    "country": "Senegal",
+    "food_category": "Poultry",
+    "consumption": 4.619999999999999,
+    "co2_emmission": 4.96
+  },
+  {
+    "country": "Senegal",
+    "food_category": "Beef",
+    "consumption": 5.85,
+    "co2_emmission": 180.52
+  },
+  {
+    "country": "Senegal",
+    "food_category": "Lamb & Goat",
+    "consumption": 3.19,
+    "co2_emmission": 111.71000000000001
+  },
+  {
+    "country": "Senegal",
+    "food_category": "Fish",
+    "consumption": 22.939999999999998,
+    "co2_emmission": 36.63
+  },
+  {
+    "country": "Senegal",
+    "food_category": "Eggs",
+    "consumption": 1.6300000000000001,
+    "co2_emmission": 1.5
+  },
+  {
+    "country": "Senegal",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 16.86,
+    "co2_emmission": 24.02
+  },
+  {
+    "country": "Senegal",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 37.32,
+    "co2_emmission": 7.119999999999999
+  },
+  {
+    "country": "Senegal",
+    "food_category": "Rice",
+    "consumption": 72.29,
+    "co2_emmission": 92.51
+  },
+  {
+    "country": "Senegal",
+    "food_category": "Soybeans",
+    "consumption": 0,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Senegal",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 4.03,
+    "co2_emmission": 7.13
+  },
+  {
+    "country": "Peru",
+    "food_category": "Pork",
+    "consumption": 3.8499999999999996,
+    "co2_emmission": 13.629999999999999
+  },
+  {
+    "country": "Peru",
+    "food_category": "Poultry",
+    "consumption": 11.719999999999999,
+    "co2_emmission": 12.59
+  },
+  {
+    "country": "Peru",
+    "food_category": "Beef",
+    "consumption": 4.6899999999999995,
+    "co2_emmission": 144.72
+  },
+  {
+    "country": "Peru",
+    "food_category": "Lamb & Goat",
+    "consumption": 1,
+    "co2_emmission": 35.02
+  },
+  {
+    "country": "Peru",
+    "food_category": "Fish",
+    "consumption": 15.739999999999998,
+    "co2_emmission": 25.130000000000003
+  },
+  {
+    "country": "Peru",
+    "food_category": "Eggs",
+    "consumption": 8.76,
+    "co2_emmission": 8.05
+  },
+  {
+    "country": "Peru",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 62.15,
+    "co2_emmission": 88.53
+  },
+  {
+    "country": "Peru",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 56.120000000000005,
+    "co2_emmission": 10.7
+  },
+  {
+    "country": "Peru",
+    "food_category": "Rice",
+    "consumption": 48.92,
+    "co2_emmission": 62.6
+  },
+  {
+    "country": "Peru",
+    "food_category": "Soybeans",
+    "consumption": 1.59,
+    "co2_emmission": 0.72
+  },
+  {
+    "country": "Peru",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 0.65,
+    "co2_emmission": 1.1500000000000001
+  },
+  {
+    "country": "Nicaragua",
+    "food_category": "Pork",
+    "consumption": 3.38,
+    "co2_emmission": 11.96
+  },
+  {
+    "country": "Nicaragua",
+    "food_category": "Poultry",
+    "consumption": 21.310000000000002,
+    "co2_emmission": 22.89
+  },
+  {
+    "country": "Nicaragua",
+    "food_category": "Beef",
+    "consumption": 4.73,
+    "co2_emmission": 145.96
+  },
+  {
+    "country": "Nicaragua",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.01,
+    "co2_emmission": 0.35
+  },
+  {
+    "country": "Nicaragua",
+    "food_category": "Fish",
+    "consumption": 3.59,
+    "co2_emmission": 5.73
+  },
+  {
+    "country": "Nicaragua",
+    "food_category": "Eggs",
+    "consumption": 4.9,
+    "co2_emmission": 4.5
+  },
+  {
+    "country": "Nicaragua",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 85.16,
+    "co2_emmission": 121.3
+  },
+  {
+    "country": "Nicaragua",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 28.17,
+    "co2_emmission": 5.37
+  },
+  {
+    "country": "Nicaragua",
+    "food_category": "Rice",
+    "consumption": 43.33,
+    "co2_emmission": 55.449999999999996
+  },
+  {
+    "country": "Nicaragua",
+    "food_category": "Soybeans",
+    "consumption": 0.01,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Nicaragua",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 2.36,
+    "co2_emmission": 4.18
+  },
+  {
+    "country": "Vietnam",
+    "food_category": "Pork",
+    "consumption": 35,
+    "co2_emmission": 123.88
+  },
+  {
+    "country": "Vietnam",
+    "food_category": "Poultry",
+    "consumption": 12.360000000000001,
+    "co2_emmission": 13.28
+  },
+  {
+    "country": "Vietnam",
+    "food_category": "Beef",
+    "consumption": 7.44,
+    "co2_emmission": 229.58
+  },
+  {
+    "country": "Vietnam",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.14,
+    "co2_emmission": 4.9
+  },
+  {
+    "country": "Vietnam",
+    "food_category": "Fish",
+    "consumption": 26.52,
+    "co2_emmission": 42.339999999999996
+  },
+  {
+    "country": "Vietnam",
+    "food_category": "Eggs",
+    "consumption": 3.84,
+    "co2_emmission": 3.53
+  },
+  {
+    "country": "Vietnam",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 16.36,
+    "co2_emmission": 23.3
+  },
+  {
+    "country": "Vietnam",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 10.49,
+    "co2_emmission": 2
+  },
+  {
+    "country": "Vietnam",
+    "food_category": "Rice",
+    "consumption": 144.56,
+    "co2_emmission": 184.99
+  },
+  {
+    "country": "Vietnam",
+    "food_category": "Soybeans",
+    "consumption": 5.75,
+    "co2_emmission": 2.59
+  },
+  {
+    "country": "Vietnam",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 6.28,
+    "co2_emmission": 11.12
+  },
+  {
+    "country": "Ethiopia",
+    "food_category": "Pork",
+    "consumption": 0.02,
+    "co2_emmission": 0.07
+  },
+  {
+    "country": "Ethiopia",
+    "food_category": "Poultry",
+    "consumption": 0.6599999999999999,
+    "co2_emmission": 0.71
+  },
+  {
+    "country": "Ethiopia",
+    "food_category": "Beef",
+    "consumption": 3.61,
+    "co2_emmission": 111.4
+  },
+  {
+    "country": "Ethiopia",
+    "food_category": "Lamb & Goat",
+    "consumption": 1.57,
+    "co2_emmission": 54.98
+  },
+  {
+    "country": "Ethiopia",
+    "food_category": "Fish",
+    "consumption": 0.24000000000000002,
+    "co2_emmission": 0.38
+  },
+  {
+    "country": "Ethiopia",
+    "food_category": "Eggs",
+    "consumption": 0.36,
+    "co2_emmission": 0.32999999999999996
+  },
+  {
+    "country": "Ethiopia",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 44.14,
+    "co2_emmission": 62.87
+  },
+  {
+    "country": "Ethiopia",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 31.259999999999998,
+    "co2_emmission": 5.96
+  },
+  {
+    "country": "Ethiopia",
+    "food_category": "Rice",
+    "consumption": 2.25,
+    "co2_emmission": 2.88
+  },
+  {
+    "country": "Ethiopia",
+    "food_category": "Soybeans",
+    "consumption": 0.45,
+    "co2_emmission": 0.2
+  },
+  {
+    "country": "Ethiopia",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 1.21,
+    "co2_emmission": 2.14
+  },
+  {
+    "country": "Myanmar",
+    "food_category": "Pork",
+    "consumption": 11.31,
+    "co2_emmission": 40.03
+  },
+  {
+    "country": "Myanmar",
+    "food_category": "Poultry",
+    "consumption": 21.87,
+    "co2_emmission": 23.49
+  },
+  {
+    "country": "Myanmar",
+    "food_category": "Beef",
+    "consumption": 4.94,
+    "co2_emmission": 152.44
+  },
+  {
+    "country": "Myanmar",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.89,
+    "co2_emmission": 31.17
+  },
+  {
+    "country": "Myanmar",
+    "food_category": "Fish",
+    "consumption": 54.260000000000005,
+    "co2_emmission": 86.64
+  },
+  {
+    "country": "Myanmar",
+    "food_category": "Eggs",
+    "consumption": 6.45,
+    "co2_emmission": 5.92
+  },
+  {
+    "country": "Myanmar",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 31.479999999999997,
+    "co2_emmission": 44.839999999999996
+  },
+  {
+    "country": "Myanmar",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 6.22,
+    "co2_emmission": 1.1900000000000002
+  },
+  {
+    "country": "Myanmar",
+    "food_category": "Rice",
+    "consumption": 132.8,
+    "co2_emmission": 169.94
+  },
+  {
+    "country": "Myanmar",
+    "food_category": "Soybeans",
+    "consumption": 0.38,
+    "co2_emmission": 0.17
+  },
+  {
+    "country": "Myanmar",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 4.5,
+    "co2_emmission": 7.970000000000001
+  },
+  {
+    "country": "Congo",
+    "food_category": "Pork",
+    "consumption": 2.3899999999999997,
+    "co2_emmission": 8.46
+  },
+  {
+    "country": "Congo",
+    "food_category": "Poultry",
+    "consumption": 13.02,
+    "co2_emmission": 13.99
+  },
+  {
+    "country": "Congo",
+    "food_category": "Beef",
+    "consumption": 4.35,
+    "co2_emmission": 134.23
+  },
+  {
+    "country": "Congo",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.4,
+    "co2_emmission": 14.01
+  },
+  {
+    "country": "Congo",
+    "food_category": "Fish",
+    "consumption": 26.22,
+    "co2_emmission": 41.86
+  },
+  {
+    "country": "Congo",
+    "food_category": "Eggs",
+    "consumption": 0.6,
+    "co2_emmission": 0.55
+  },
+  {
+    "country": "Congo",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 10.69,
+    "co2_emmission": 15.229999999999999
+  },
+  {
+    "country": "Congo",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 40.07,
+    "co2_emmission": 7.64
+  },
+  {
+    "country": "Congo",
+    "food_category": "Rice",
+    "consumption": 16.51,
+    "co2_emmission": 21.130000000000003
+  },
+  {
+    "country": "Congo",
+    "food_category": "Soybeans",
+    "consumption": 0,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Congo",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 3.08,
+    "co2_emmission": 5.45
+  },
+  {
+    "country": "Zambia",
+    "food_category": "Pork",
+    "consumption": 1.6600000000000001,
+    "co2_emmission": 5.88
+  },
+  {
+    "country": "Zambia",
+    "food_category": "Poultry",
+    "consumption": 3.29,
+    "co2_emmission": 3.53
+  },
+  {
+    "country": "Zambia",
+    "food_category": "Beef",
+    "consumption": 4.76,
+    "co2_emmission": 146.88000000000002
+  },
+  {
+    "country": "Zambia",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.6799999999999999,
+    "co2_emmission": 23.810000000000002
+  },
+  {
+    "country": "Zambia",
+    "food_category": "Fish",
+    "consumption": 6.2,
+    "co2_emmission": 9.9
+  },
+  {
+    "country": "Zambia",
+    "food_category": "Eggs",
+    "consumption": 3.32,
+    "co2_emmission": 3.05
+  },
+  {
+    "country": "Zambia",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 9.709999999999999,
+    "co2_emmission": 13.83
+  },
+  {
+    "country": "Zambia",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 12.1,
+    "co2_emmission": 2.3099999999999996
+  },
+  {
+    "country": "Zambia",
+    "food_category": "Rice",
+    "consumption": 3.05,
+    "co2_emmission": 3.9
+  },
+  {
+    "country": "Zambia",
+    "food_category": "Soybeans",
+    "consumption": 7.3,
+    "co2_emmission": 3.29
+  },
+  {
+    "country": "Zambia",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 5.04,
+    "co2_emmission": 8.92
+  },
+  {
+    "country": "Cameroon",
+    "food_category": "Pork",
+    "consumption": 1.47,
+    "co2_emmission": 5.2
+  },
+  {
+    "country": "Cameroon",
+    "food_category": "Poultry",
+    "consumption": 3.29,
+    "co2_emmission": 3.53
+  },
+  {
+    "country": "Cameroon",
+    "food_category": "Beef",
+    "consumption": 4.17,
+    "co2_emmission": 128.68
+  },
+  {
+    "country": "Cameroon",
+    "food_category": "Lamb & Goat",
+    "consumption": 1.4,
+    "co2_emmission": 49.03
+  },
+  {
+    "country": "Cameroon",
+    "food_category": "Fish",
+    "consumption": 14.709999999999999,
+    "co2_emmission": 23.49
+  },
+  {
+    "country": "Cameroon",
+    "food_category": "Eggs",
+    "consumption": 0.4,
+    "co2_emmission": 0.37
+  },
+  {
+    "country": "Cameroon",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 15.27,
+    "co2_emmission": 21.75
+  },
+  {
+    "country": "Cameroon",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 22.6,
+    "co2_emmission": 4.31
+  },
+  {
+    "country": "Cameroon",
+    "food_category": "Rice",
+    "consumption": 23.85,
+    "co2_emmission": 30.52
+  },
+  {
+    "country": "Cameroon",
+    "food_category": "Soybeans",
+    "consumption": 0.64,
+    "co2_emmission": 0.29000000000000004
+  },
+  {
+    "country": "Cameroon",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 9.29,
+    "co2_emmission": 16.439999999999998
+  },
+  {
+    "country": "Madagascar",
+    "food_category": "Pork",
+    "consumption": 2.56,
+    "co2_emmission": 9.06
+  },
+  {
+    "country": "Madagascar",
+    "food_category": "Poultry",
+    "consumption": 3.14,
+    "co2_emmission": 3.3699999999999997
+  },
+  {
+    "country": "Madagascar",
+    "food_category": "Beef",
+    "consumption": 7.51,
+    "co2_emmission": 231.73999999999998
+  },
+  {
+    "country": "Madagascar",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.5700000000000001,
+    "co2_emmission": 19.959999999999997
+  },
+  {
+    "country": "Madagascar",
+    "food_category": "Fish",
+    "consumption": 4.41,
+    "co2_emmission": 7.04
+  },
+  {
+    "country": "Madagascar",
+    "food_category": "Eggs",
+    "consumption": 0.71,
+    "co2_emmission": 0.65
+  },
+  {
+    "country": "Madagascar",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 24.84,
+    "co2_emmission": 35.379999999999995
+  },
+  {
+    "country": "Madagascar",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 9.01,
+    "co2_emmission": 1.72
+  },
+  {
+    "country": "Madagascar",
+    "food_category": "Rice",
+    "consumption": 102.53,
+    "co2_emmission": 131.20999999999998
+  },
+  {
+    "country": "Madagascar",
+    "food_category": "Soybeans",
+    "consumption": 0,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Madagascar",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 0.35,
+    "co2_emmission": 0.62
+  },
+  {
+    "country": "Malawi",
+    "food_category": "Pork",
+    "consumption": 5.45,
+    "co2_emmission": 19.29
+  },
+  {
+    "country": "Malawi",
+    "food_category": "Poultry",
+    "consumption": 1.3800000000000001,
+    "co2_emmission": 1.48
+  },
+  {
+    "country": "Malawi",
+    "food_category": "Beef",
+    "consumption": 2.3499999999999996,
+    "co2_emmission": 72.52
+  },
+  {
+    "country": "Malawi",
+    "food_category": "Lamb & Goat",
+    "consumption": 2.07,
+    "co2_emmission": 72.49000000000001
+  },
+  {
+    "country": "Malawi",
+    "food_category": "Fish",
+    "consumption": 7.33,
+    "co2_emmission": 11.7
+  },
+  {
+    "country": "Malawi",
+    "food_category": "Eggs",
+    "consumption": 1.08,
+    "co2_emmission": 0.99
+  },
+  {
+    "country": "Malawi",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 7.98,
+    "co2_emmission": 11.370000000000001
+  },
+  {
+    "country": "Malawi",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 11.77,
+    "co2_emmission": 2.24
+  },
+  {
+    "country": "Malawi",
+    "food_category": "Rice",
+    "consumption": 4.75,
+    "co2_emmission": 6.08
+  },
+  {
+    "country": "Malawi",
+    "food_category": "Soybeans",
+    "consumption": 1.76,
+    "co2_emmission": 0.7899999999999999
+  },
+  {
+    "country": "Malawi",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 5.08,
+    "co2_emmission": 8.99
+  },
+  {
+    "country": "Guinea",
+    "food_category": "Pork",
+    "consumption": 0.16,
+    "co2_emmission": 0.5700000000000001
+  },
+  {
+    "country": "Guinea",
+    "food_category": "Poultry",
+    "consumption": 1.83,
+    "co2_emmission": 1.97
+  },
+  {
+    "country": "Guinea",
+    "food_category": "Beef",
+    "consumption": 6.26,
+    "co2_emmission": 193.17
+  },
+  {
+    "country": "Guinea",
+    "food_category": "Lamb & Goat",
+    "consumption": 1.6,
+    "co2_emmission": 56.03
+  },
+  {
+    "country": "Guinea",
+    "food_category": "Fish",
+    "consumption": 9.18,
+    "co2_emmission": 14.66
+  },
+  {
+    "country": "Guinea",
+    "food_category": "Eggs",
+    "consumption": 1.95,
+    "co2_emmission": 1.79
+  },
+  {
+    "country": "Guinea",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 20.62,
+    "co2_emmission": 29.37
+  },
+  {
+    "country": "Guinea",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 18.55,
+    "co2_emmission": 3.54
+  },
+  {
+    "country": "Guinea",
+    "food_category": "Rice",
+    "consumption": 97.11999999999999,
+    "co2_emmission": 124.28
+  },
+  {
+    "country": "Guinea",
+    "food_category": "Soybeans",
+    "consumption": 0,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Guinea",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 4.14,
+    "co2_emmission": 7.33
+  },
+  {
+    "country": "Nigeria",
+    "food_category": "Pork",
+    "consumption": 1.47,
+    "co2_emmission": 5.2
+  },
+  {
+    "country": "Nigeria",
+    "food_category": "Poultry",
+    "consumption": 1.73,
+    "co2_emmission": 1.86
+  },
+  {
+    "country": "Nigeria",
+    "food_category": "Beef",
+    "consumption": 2.3299999999999996,
+    "co2_emmission": 71.9
+  },
+  {
+    "country": "Nigeria",
+    "food_category": "Lamb & Goat",
+    "consumption": 2.72,
+    "co2_emmission": 95.25
+  },
+  {
+    "country": "Nigeria",
+    "food_category": "Fish",
+    "consumption": 16.03,
+    "co2_emmission": 25.59
+  },
+  {
+    "country": "Nigeria",
+    "food_category": "Eggs",
+    "consumption": 3.46,
+    "co2_emmission": 3.18
+  },
+  {
+    "country": "Nigeria",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 7.91,
+    "co2_emmission": 11.27
+  },
+  {
+    "country": "Nigeria",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 20.82,
+    "co2_emmission": 3.9699999999999998
+  },
+  {
+    "country": "Nigeria",
+    "food_category": "Rice",
+    "consumption": 28.23,
+    "co2_emmission": 36.13
+  },
+  {
+    "country": "Nigeria",
+    "food_category": "Soybeans",
+    "consumption": 2.6,
+    "co2_emmission": 1.1700000000000002
+  },
+  {
+    "country": "Nigeria",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 6.930000000000001,
+    "co2_emmission": 12.27
+  },
+  {
+    "country": "Rwanda",
+    "food_category": "Pork",
+    "consumption": 0.76,
+    "co2_emmission": 2.69
+  },
+  {
+    "country": "Rwanda",
+    "food_category": "Poultry",
+    "consumption": 1.34,
+    "co2_emmission": 1.44
+  },
+  {
+    "country": "Rwanda",
+    "food_category": "Beef",
+    "consumption": 2.53,
+    "co2_emmission": 78.07
+  },
+  {
+    "country": "Rwanda",
+    "food_category": "Lamb & Goat",
+    "consumption": 1.93,
+    "co2_emmission": 67.59
+  },
+  {
+    "country": "Rwanda",
+    "food_category": "Fish",
+    "consumption": 3.88,
+    "co2_emmission": 6.2
+  },
+  {
+    "country": "Rwanda",
+    "food_category": "Eggs",
+    "consumption": 0.16,
+    "co2_emmission": 0.15000000000000002
+  },
+  {
+    "country": "Rwanda",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 7.23,
+    "co2_emmission": 10.3
+  },
+  {
+    "country": "Rwanda",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 11.34,
+    "co2_emmission": 2.16
+  },
+  {
+    "country": "Rwanda",
+    "food_category": "Rice",
+    "consumption": 8.7,
+    "co2_emmission": 11.129999999999999
+  },
+  {
+    "country": "Rwanda",
+    "food_category": "Soybeans",
+    "consumption": 1.93,
+    "co2_emmission": 0.8700000000000001
+  },
+  {
+    "country": "Rwanda",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 0.58,
+    "co2_emmission": 1.03
+  },
+  {
+    "country": "Philippines",
+    "food_category": "Pork",
+    "consumption": 18.4,
+    "co2_emmission": 65.13
+  },
+  {
+    "country": "Philippines",
+    "food_category": "Poultry",
+    "consumption": 11.91,
+    "co2_emmission": 12.79
+  },
+  {
+    "country": "Philippines",
+    "food_category": "Beef",
+    "consumption": 4.06,
+    "co2_emmission": 125.28
+  },
+  {
+    "country": "Philippines",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.56,
+    "co2_emmission": 19.610000000000003
+  },
+  {
+    "country": "Philippines",
+    "food_category": "Fish",
+    "consumption": 28.51,
+    "co2_emmission": 45.52
+  },
+  {
+    "country": "Philippines",
+    "food_category": "Eggs",
+    "consumption": 4.02,
+    "co2_emmission": 3.69
+  },
+  {
+    "country": "Philippines",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 15.66,
+    "co2_emmission": 22.310000000000002
+  },
+  {
+    "country": "Philippines",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 23.12,
+    "co2_emmission": 4.41
+  },
+  {
+    "country": "Philippines",
+    "food_category": "Rice",
+    "consumption": 119.44000000000001,
+    "co2_emmission": 152.85000000000002
+  },
+  {
+    "country": "Philippines",
+    "food_category": "Soybeans",
+    "consumption": 0.03,
+    "co2_emmission": 0.01
+  },
+  {
+    "country": "Philippines",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 2.08,
+    "co2_emmission": 3.68
+  },
+  {
+    "country": "Ghana",
+    "food_category": "Pork",
+    "consumption": 1.36,
+    "co2_emmission": 4.81
+  },
+  {
+    "country": "Ghana",
+    "food_category": "Poultry",
+    "consumption": 8.629999999999999,
+    "co2_emmission": 9.27
+  },
+  {
+    "country": "Ghana",
+    "food_category": "Beef",
+    "consumption": 1.09,
+    "co2_emmission": 33.64
+  },
+  {
+    "country": "Ghana",
+    "food_category": "Lamb & Goat",
+    "consumption": 1.74,
+    "co2_emmission": 60.93
+  },
+  {
+    "country": "Ghana",
+    "food_category": "Fish",
+    "consumption": 26.05,
+    "co2_emmission": 41.59
+  },
+  {
+    "country": "Ghana",
+    "food_category": "Eggs",
+    "consumption": 1.21,
+    "co2_emmission": 1.11
+  },
+  {
+    "country": "Ghana",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 9.08,
+    "co2_emmission": 12.93
+  },
+  {
+    "country": "Ghana",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 14.450000000000001,
+    "co2_emmission": 2.7600000000000002
+  },
+  {
+    "country": "Ghana",
+    "food_category": "Rice",
+    "consumption": 32.03,
+    "co2_emmission": 40.99
+  },
+  {
+    "country": "Ghana",
+    "food_category": "Soybeans",
+    "consumption": 0.01,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Ghana",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 5.56,
+    "co2_emmission": 9.84
+  },
+  {
+    "country": "Togo",
+    "food_category": "Pork",
+    "consumption": 1.57,
+    "co2_emmission": 5.56
+  },
+  {
+    "country": "Togo",
+    "food_category": "Poultry",
+    "consumption": 6.63,
+    "co2_emmission": 7.119999999999999
+  },
+  {
+    "country": "Togo",
+    "food_category": "Beef",
+    "consumption": 1.53,
+    "co2_emmission": 47.21
+  },
+  {
+    "country": "Togo",
+    "food_category": "Lamb & Goat",
+    "consumption": 1.58,
+    "co2_emmission": 55.33
+  },
+  {
+    "country": "Togo",
+    "food_category": "Fish",
+    "consumption": 11.69,
+    "co2_emmission": 18.67
+  },
+  {
+    "country": "Togo",
+    "food_category": "Eggs",
+    "consumption": 0.8600000000000001,
+    "co2_emmission": 0.7899999999999999
+  },
+  {
+    "country": "Togo",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 7.96,
+    "co2_emmission": 11.34
+  },
+  {
+    "country": "Togo",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 12.91,
+    "co2_emmission": 2.46
+  },
+  {
+    "country": "Togo",
+    "food_category": "Rice",
+    "consumption": 25.99,
+    "co2_emmission": 33.260000000000005
+  },
+  {
+    "country": "Togo",
+    "food_category": "Soybeans",
+    "consumption": 0.01,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Togo",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 3.59,
+    "co2_emmission": 6.35
+  },
+  {
+    "country": "Gambia",
+    "food_category": "Pork",
+    "consumption": 0.18,
+    "co2_emmission": 0.64
+  },
+  {
+    "country": "Gambia",
+    "food_category": "Poultry",
+    "consumption": 2.66,
+    "co2_emmission": 2.86
+  },
+  {
+    "country": "Gambia",
+    "food_category": "Beef",
+    "consumption": 2.16,
+    "co2_emmission": 66.64999999999999
+  },
+  {
+    "country": "Gambia",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.71,
+    "co2_emmission": 24.86
+  },
+  {
+    "country": "Gambia",
+    "food_category": "Fish",
+    "consumption": 23.130000000000003,
+    "co2_emmission": 36.93
+  },
+  {
+    "country": "Gambia",
+    "food_category": "Eggs",
+    "consumption": 0.99,
+    "co2_emmission": 0.91
+  },
+  {
+    "country": "Gambia",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 45.71,
+    "co2_emmission": 65.11
+  },
+  {
+    "country": "Gambia",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 37.91,
+    "co2_emmission": 7.23
+  },
+  {
+    "country": "Gambia",
+    "food_category": "Rice",
+    "consumption": 61.839999999999996,
+    "co2_emmission": 79.14
+  },
+  {
+    "country": "Gambia",
+    "food_category": "Soybeans",
+    "consumption": 0,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Gambia",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 5.2700000000000005,
+    "co2_emmission": 9.33
+  },
+  {
+    "country": "India",
+    "food_category": "Pork",
+    "consumption": 0.28,
+    "co2_emmission": 0.99
+  },
+  {
+    "country": "India",
+    "food_category": "Poultry",
+    "consumption": 1.8800000000000001,
+    "co2_emmission": 2.02
+  },
+  {
+    "country": "India",
+    "food_category": "Beef",
+    "consumption": 0.81,
+    "co2_emmission": 24.99
+  },
+  {
+    "country": "India",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.58,
+    "co2_emmission": 20.310000000000002
+  },
+  {
+    "country": "India",
+    "food_category": "Fish",
+    "consumption": 4.71,
+    "co2_emmission": 7.52
+  },
+  {
+    "country": "India",
+    "food_category": "Eggs",
+    "consumption": 2.58,
+    "co2_emmission": 2.3699999999999997
+  },
+  {
+    "country": "India",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 84.5,
+    "co2_emmission": 120.36
+  },
+  {
+    "country": "India",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 60.56,
+    "co2_emmission": 11.55
+  },
+  {
+    "country": "India",
+    "food_category": "Rice",
+    "consumption": 69.49000000000001,
+    "co2_emmission": 88.93
+  },
+  {
+    "country": "India",
+    "food_category": "Soybeans",
+    "consumption": 0.39,
+    "co2_emmission": 0.18
+  },
+  {
+    "country": "India",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 1.92,
+    "co2_emmission": 3.4
+  },
+  {
+    "country": "Thailand",
+    "food_category": "Pork",
+    "consumption": 13,
+    "co2_emmission": 46.01
+  },
+  {
+    "country": "Thailand",
+    "food_category": "Poultry",
+    "consumption": 13.69,
+    "co2_emmission": 14.709999999999999
+  },
+  {
+    "country": "Thailand",
+    "food_category": "Beef",
+    "consumption": 2.56,
+    "co2_emmission": 79
+  },
+  {
+    "country": "Thailand",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.05,
+    "co2_emmission": 1.75
+  },
+  {
+    "country": "Thailand",
+    "food_category": "Fish",
+    "consumption": 19.45,
+    "co2_emmission": 31.06
+  },
+  {
+    "country": "Thailand",
+    "food_category": "Eggs",
+    "consumption": 12.350000000000001,
+    "co2_emmission": 11.34
+  },
+  {
+    "country": "Thailand",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 29.35,
+    "co2_emmission": 41.809999999999995
+  },
+  {
+    "country": "Thailand",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 10.93,
+    "co2_emmission": 2.08
+  },
+  {
+    "country": "Thailand",
+    "food_category": "Rice",
+    "consumption": 114.57,
+    "co2_emmission": 146.62
+  },
+  {
+    "country": "Thailand",
+    "food_category": "Soybeans",
+    "consumption": 2.13,
+    "co2_emmission": 0.96
+  },
+  {
+    "country": "Thailand",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 1.5,
+    "co2_emmission": 2.66
+  },
+  {
+    "country": "Mozambique",
+    "food_category": "Pork",
+    "consumption": 5.13,
+    "co2_emmission": 18.16
+  },
+  {
+    "country": "Mozambique",
+    "food_category": "Poultry",
+    "consumption": 1.41,
+    "co2_emmission": 1.51
+  },
+  {
+    "country": "Mozambique",
+    "food_category": "Beef",
+    "consumption": 1.04,
+    "co2_emmission": 32.09
+  },
+  {
+    "country": "Mozambique",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.9,
+    "co2_emmission": 31.52
+  },
+  {
+    "country": "Mozambique",
+    "food_category": "Fish",
+    "consumption": 7.74,
+    "co2_emmission": 12.360000000000001
+  },
+  {
+    "country": "Mozambique",
+    "food_category": "Eggs",
+    "consumption": 1.7,
+    "co2_emmission": 1.56
+  },
+  {
+    "country": "Mozambique",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 4.79,
+    "co2_emmission": 6.819999999999999
+  },
+  {
+    "country": "Mozambique",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 14.65,
+    "co2_emmission": 2.79
+  },
+  {
+    "country": "Mozambique",
+    "food_category": "Rice",
+    "consumption": 23.41,
+    "co2_emmission": 29.959999999999997
+  },
+  {
+    "country": "Mozambique",
+    "food_category": "Soybeans",
+    "consumption": 0.03,
+    "co2_emmission": 0.01
+  },
+  {
+    "country": "Mozambique",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 2.61,
+    "co2_emmission": 4.619999999999999
+  },
+  {
+    "country": "Cambodia",
+    "food_category": "Pork",
+    "consumption": 6.52,
+    "co2_emmission": 23.08
+  },
+  {
+    "country": "Cambodia",
+    "food_category": "Poultry",
+    "consumption": 1.84,
+    "co2_emmission": 1.98
+  },
+  {
+    "country": "Cambodia",
+    "food_category": "Beef",
+    "consumption": 4.85,
+    "co2_emmission": 149.66
+  },
+  {
+    "country": "Cambodia",
+    "food_category": "Lamb & Goat",
+    "consumption": 0,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Cambodia",
+    "food_category": "Fish",
+    "consumption": 39.59,
+    "co2_emmission": 63.21
+  },
+  {
+    "country": "Cambodia",
+    "food_category": "Eggs",
+    "consumption": 1.37,
+    "co2_emmission": 1.26
+  },
+  {
+    "country": "Cambodia",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 3.4699999999999998,
+    "co2_emmission": 4.94
+  },
+  {
+    "country": "Cambodia",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 2.74,
+    "co2_emmission": 0.52
+  },
+  {
+    "country": "Cambodia",
+    "food_category": "Rice",
+    "consumption": 159.1,
+    "co2_emmission": 203.6
+  },
+  {
+    "country": "Cambodia",
+    "food_category": "Soybeans",
+    "consumption": 4.33,
+    "co2_emmission": 1.95
+  },
+  {
+    "country": "Cambodia",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 1.25,
+    "co2_emmission": 2.21
+  },
+  {
+    "country": "Sierra Leone",
+    "food_category": "Pork",
+    "consumption": 1.22,
+    "co2_emmission": 4.319999999999999
+  },
+  {
+    "country": "Sierra Leone",
+    "food_category": "Poultry",
+    "consumption": 4.970000000000001,
+    "co2_emmission": 5.34
+  },
+  {
+    "country": "Sierra Leone",
+    "food_category": "Beef",
+    "consumption": 1.99,
+    "co2_emmission": 61.41
+  },
+  {
+    "country": "Sierra Leone",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.65,
+    "co2_emmission": 22.759999999999998
+  },
+  {
+    "country": "Sierra Leone",
+    "food_category": "Fish",
+    "consumption": 32.03,
+    "co2_emmission": 51.14
+  },
+  {
+    "country": "Sierra Leone",
+    "food_category": "Eggs",
+    "consumption": 1.92,
+    "co2_emmission": 1.76
+  },
+  {
+    "country": "Sierra Leone",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 7,
+    "co2_emmission": 9.97
+  },
+  {
+    "country": "Sierra Leone",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 8.719999999999999,
+    "co2_emmission": 1.6600000000000001
+  },
+  {
+    "country": "Sierra Leone",
+    "food_category": "Rice",
+    "consumption": 103.3,
+    "co2_emmission": 132.19
+  },
+  {
+    "country": "Sierra Leone",
+    "food_category": "Soybeans",
+    "consumption": 0,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Sierra Leone",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 5.57,
+    "co2_emmission": 9.860000000000001
+  },
+  {
+    "country": "Sri Lanka",
+    "food_category": "Pork",
+    "consumption": 0.05,
+    "co2_emmission": 0.18
+  },
+  {
+    "country": "Sri Lanka",
+    "food_category": "Poultry",
+    "consumption": 4.96,
+    "co2_emmission": 5.33
+  },
+  {
+    "country": "Sri Lanka",
+    "food_category": "Beef",
+    "consumption": 1.3800000000000001,
+    "co2_emmission": 42.58
+  },
+  {
+    "country": "Sri Lanka",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.09,
+    "co2_emmission": 3.15
+  },
+  {
+    "country": "Sri Lanka",
+    "food_category": "Fish",
+    "consumption": 24.919999999999998,
+    "co2_emmission": 39.790000000000006
+  },
+  {
+    "country": "Sri Lanka",
+    "food_category": "Eggs",
+    "consumption": 4.57,
+    "co2_emmission": 4.2
+  },
+  {
+    "country": "Sri Lanka",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 34.98,
+    "co2_emmission": 49.83
+  },
+  {
+    "country": "Sri Lanka",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 37.01,
+    "co2_emmission": 7.06
+  },
+  {
+    "country": "Sri Lanka",
+    "food_category": "Rice",
+    "consumption": 109.72,
+    "co2_emmission": 140.41
+  },
+  {
+    "country": "Sri Lanka",
+    "food_category": "Soybeans",
+    "consumption": 0,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Sri Lanka",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 1.09,
+    "co2_emmission": 1.93
+  },
+  {
+    "country": "Indonesia",
+    "food_category": "Pork",
+    "consumption": 2.98,
+    "co2_emmission": 10.55
+  },
+  {
+    "country": "Indonesia",
+    "food_category": "Poultry",
+    "consumption": 7.5,
+    "co2_emmission": 8.06
+  },
+  {
+    "country": "Indonesia",
+    "food_category": "Beef",
+    "consumption": 2.59,
+    "co2_emmission": 79.92
+  },
+  {
+    "country": "Indonesia",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.46,
+    "co2_emmission": 16.110000000000003
+  },
+  {
+    "country": "Indonesia",
+    "food_category": "Fish",
+    "consumption": 25.650000000000002,
+    "co2_emmission": 40.949999999999996
+  },
+  {
+    "country": "Indonesia",
+    "food_category": "Eggs",
+    "consumption": 4.88,
+    "co2_emmission": 4.48
+  },
+  {
+    "country": "Indonesia",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 14.82,
+    "co2_emmission": 21.110000000000003
+  },
+  {
+    "country": "Indonesia",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 25.45,
+    "co2_emmission": 4.85
+  },
+  {
+    "country": "Indonesia",
+    "food_category": "Rice",
+    "consumption": 134.62,
+    "co2_emmission": 172.26999999999998
+  },
+  {
+    "country": "Indonesia",
+    "food_category": "Soybeans",
+    "consumption": 1.12,
+    "co2_emmission": 0.5
+  },
+  {
+    "country": "Indonesia",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 4.92,
+    "co2_emmission": 8.709999999999999
+  },
+  {
+    "country": "Liberia",
+    "food_category": "Pork",
+    "consumption": 4.01,
+    "co2_emmission": 14.19
+  },
+  {
+    "country": "Liberia",
+    "food_category": "Poultry",
+    "consumption": 8.91,
+    "co2_emmission": 9.57
+  },
+  {
+    "country": "Liberia",
+    "food_category": "Beef",
+    "consumption": 0.7799999999999999,
+    "co2_emmission": 24.07
+  },
+  {
+    "country": "Liberia",
+    "food_category": "Lamb & Goat",
+    "consumption": 0.48000000000000004,
+    "co2_emmission": 16.810000000000002
+  },
+  {
+    "country": "Liberia",
+    "food_category": "Fish",
+    "consumption": 4.13,
+    "co2_emmission": 6.59
+  },
+  {
+    "country": "Liberia",
+    "food_category": "Eggs",
+    "consumption": 2.05,
+    "co2_emmission": 1.8800000000000001
+  },
+  {
+    "country": "Liberia",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 3.04,
+    "co2_emmission": 4.33
+  },
+  {
+    "country": "Liberia",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 10.950000000000001,
+    "co2_emmission": 2.09
+  },
+  {
+    "country": "Liberia",
+    "food_category": "Rice",
+    "consumption": 94.75,
+    "co2_emmission": 121.25
+  },
+  {
+    "country": "Liberia",
+    "food_category": "Soybeans",
+    "consumption": 0.63,
+    "co2_emmission": 0.28
+  },
+  {
+    "country": "Liberia",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 1.31,
+    "co2_emmission": 2.32
+  },
+  {
+    "country": "Bangladesh",
+    "food_category": "Pork",
+    "consumption": 0,
+    "co2_emmission": 0
+  },
+  {
+    "country": "Bangladesh",
+    "food_category": "Poultry",
+    "consumption": 1.4,
+    "co2_emmission": 1.5
+  },
+  {
+    "country": "Bangladesh",
+    "food_category": "Beef",
+    "consumption": 1.28,
+    "co2_emmission": 39.5
+  },
+  {
+    "country": "Bangladesh",
+    "food_category": "Lamb & Goat",
+    "consumption": 1.33,
+    "co2_emmission": 46.58
+  },
+  {
+    "country": "Bangladesh",
+    "food_category": "Fish",
+    "consumption": 18.07,
+    "co2_emmission": 28.85
+  },
+  {
+    "country": "Bangladesh",
+    "food_category": "Eggs",
+    "consumption": 2.08,
+    "co2_emmission": 1.91
+  },
+  {
+    "country": "Bangladesh",
+    "food_category": "Milk - inc. cheese",
+    "consumption": 21.91,
+    "co2_emmission": 31.21
+  },
+  {
+    "country": "Bangladesh",
+    "food_category": "Wheat and Wheat Products",
+    "consumption": 17.47,
+    "co2_emmission": 3.3299999999999996
+  },
+  {
+    "country": "Bangladesh",
+    "food_category": "Rice",
+    "consumption": 171.73,
+    "co2_emmission": 219.76
+  },
+  {
+    "country": "Bangladesh",
+    "food_category": "Soybeans",
+    "consumption": 0.61,
+    "co2_emmission": 0.27
+  },
+  {
+    "country": "Bangladesh",
+    "food_category": "Nuts inc. Peanut Butter",
+    "consumption": 0.72,
+    "co2_emmission": 1.27
+  }
+]
